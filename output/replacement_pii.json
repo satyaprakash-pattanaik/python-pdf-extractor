@@ -1,0 +1,102 @@
+{
+    "Patient::handrop,ronald s": {
+        "field": "Patient",
+        "original": "HANDROP,RONALD S",
+        "dummy": "John Doe"
+    },
+    "PATIENT NAME::handrop, ronald": {
+        "field": "PATIENT NAME",
+        "original": "HANDROP, RONALD",
+        "dummy": "REDACTED"
+    },
+    "Patient Name::handrop, ronald": {
+        "field": "Patient Name",
+        "original": "HANDROP, RONALD",
+        "dummy": "REDACTED"
+    },
+    "Person::handrop,ronalds": {
+        "field": "Person",
+        "original": " Handrop,RonaldS",
+        "dummy": "REDACTED"
+    },
+    "REFERRING PHYSICIAN::blumenfeld,andrew": {
+        "field": "REFERRING PHYSICIAN",
+        "original": "BLUMENFELD,ANDREW",
+        "dummy": "REDACTED"
+    },
+    "RE::handrodp,ronald": {
+        "field": "RE",
+        "original": "HANDRODP,RONALD",
+        "dummy": "REDACTED"
+    },
+    "Account/ID::©haro6cvo": {
+        "field": "Account/ID",
+        "original": "©HARO6CVO",
+        "dummy": "MA-000000"
+    },
+    "RequestID::443858443": {
+        "field": "RequestID",
+        "original": "443858443",
+        "dummy": "REDACTED"
+    },
+    "MRN#::02-57-08-22": {
+        "field": "MRN#",
+        "original": "02-57-08-22",
+        "dummy": "MRN-000000"
+    },
+    "MRN::20211": {
+        "field": "MRN",
+        "original": "20211",
+        "dummy": "REDACTED"
+    },
+    "FIN::n/a": {
+        "field": "FIN",
+        "original": "n/a",
+        "dummy": "FIN-000000"
+    },
+    "SHC#::100-962-224": {
+        "field": "SHC#",
+        "original": "100-962-224",
+        "dummy": "100-000-000"
+    },
+    "Date of Birth::12/07/1954": {
+        "field": "Date of Birth",
+        "original": "12/07/1954",
+        "dummy": "01/01/1900"
+    },
+    "DOB/Age/Sex::12/7/1954 68years male": {
+        "field": "DOB/Age/Sex",
+        "original": "12/7/1954  68years Male",
+        "dummy": "REDACTED"
+    },
+    "DOB::12/07/1954": {
+        "field": "DOB",
+        "original": "12/07/1954",
+        "dummy": "REDACTED"
+    },
+    "Attending::buckleymd,byronjeffrey": {
+        "field": "Attending",
+        "original": "BuckleyMD,ByronJeffrey",
+        "dummy": "Dr. Yety Uetyer"
+    },
+    "Referral By::sanjay ghosh, m.d.": {
+        "field": "Referral By",
+        "original": "Sanjay Ghosh, M.D.",
+        "dummy": "Xxxx Xxxx, M.D."
+    },
+    "Hospital::smi imaging center of san diego,llc dr. sanjay ghosh 7625 mesa college dr. suite 110a, san diego, ca 92111": {
+        "field": "Hospital",
+        "original": "SMI Imaging Center of San Diego,LLC Dr. Sanjay Ghosh 7625 Mesa College Dr. Suite 110A, San Diego, CA 92111",
+        "dummy": "REDACTED"
+    },
+    "Phone::(619)810-1010": {
+        "field": "Phone",
+        "original": "(619)810-1010",
+        "dummy": "(111) 000-1011"
+    },
+    "Fax::(619)810-1011": {
+        "field": "Fax",
+        "original": "(619)810-1011",
+        "dummy": "REDACTED"
+    }
+}
