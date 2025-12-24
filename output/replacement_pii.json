@@ -1,102 +1,42 @@
 {
-    "Patient::handrop,ronald s": {
-        "field": "Patient",
-        "original": "HANDROP,RONALD S",
-        "dummy": "John Doe"
-    },
-    "PATIENT NAME::handrop, ronald": {
-        "field": "PATIENT NAME",
-        "original": "HANDROP, RONALD",
-        "dummy": "REDACTED"
-    },
-    "Patient Name::handrop, ronald": {
+    "Patient Name::begle ,peter": {
         "field": "Patient Name",
-        "original": "HANDROP, RONALD",
-        "dummy": "REDACTED"
+        "original": "Begle ,Peter",
+        "dummy": "Alex Brown"
     },
-    "Person::handrop,ronalds": {
-        "field": "Person",
-        "original": " Handrop,RonaldS",
-        "dummy": "REDACTED"
-    },
-    "REFERRING PHYSICIAN::blumenfeld,andrew": {
-        "field": "REFERRING PHYSICIAN",
-        "original": "BLUMENFELD,ANDREW",
-        "dummy": "REDACTED"
-    },
-    "RE::handrodp,ronald": {
-        "field": "RE",
-        "original": "HANDRODP,RONALD",
-        "dummy": "REDACTED"
-    },
-    "Account/ID::©haro6cvo": {
-        "field": "Account/ID",
-        "original": "©HARO6CVO",
-        "dummy": "MA-000000"
-    },
-    "RequestID::443858443": {
-        "field": "RequestID",
-        "original": "443858443",
-        "dummy": "REDACTED"
-    },
-    "MRN#::02-57-08-22": {
-        "field": "MRN#",
-        "original": "02-57-08-22",
-        "dummy": "MRN-000000"
-    },
-    "MRN::20211": {
+    "MRN::7605906": {
         "field": "MRN",
-        "original": "20211",
-        "dummy": "REDACTED"
+        "original": "7605906",
+        "dummy": "000000MRN"
     },
-    "FIN::n/a": {
-        "field": "FIN",
-        "original": "n/a",
-        "dummy": "FIN-000000"
-    },
-    "SHC#::100-962-224": {
-        "field": "SHC#",
-        "original": "100-962-224",
-        "dummy": "100-000-000"
-    },
-    "Date of Birth::12/07/1954": {
-        "field": "Date of Birth",
-        "original": "12/07/1954",
-        "dummy": "01/01/1900"
-    },
-    "DOB/Age/Sex::12/7/1954 68years male": {
-        "field": "DOB/Age/Sex",
-        "original": "12/7/1954  68years Male",
-        "dummy": "REDACTED"
-    },
-    "DOB::12/07/1954": {
+    "DOB::03/19/1937": {
         "field": "DOB",
-        "original": "12/07/1954",
-        "dummy": "REDACTED"
+        "original": "03/19/1937",
+        "dummy": "01-01-1900"
     },
-    "Attending::buckleymd,byronjeffrey": {
-        "field": "Attending",
-        "original": "BuckleyMD,ByronJeffrey",
-        "dummy": "Dr. Yety Uetyer"
+    "Address::1146 navajo d fawnskin, ca92333": {
+        "field": "Address",
+        "original": "1146 navajo D Fawnskin, CA92333",
+        "dummy": "123 Dummy Street, Dummy City"
     },
-    "Referral By::sanjay ghosh, m.d.": {
-        "field": "Referral By",
-        "original": "Sanjay Ghosh, M.D.",
-        "dummy": "Xxxx Xxxx, M.D."
+    "SSN::999-99-9999": {
+        "field": "SSN",
+        "original": "999-99-9999",
+        "dummy": "000-01-0002"
     },
-    "Hospital::smi imaging center of san diego,llc dr. sanjay ghosh 7625 mesa college dr. suite 110a, san diego, ca 92111": {
-        "field": "Hospital",
-        "original": "SMI Imaging Center of San Diego,LLC Dr. Sanjay Ghosh 7625 Mesa College Dr. Suite 110A, San Diego, CA 92111",
-        "dummy": "REDACTED"
+    "Patient's Phone Number::(909) 800-5237": {
+        "field": "Patient's Phone Number",
+        "original": "(909) 800-5237",
+        "dummy": "9000000001"
     },
-    "Phone::(619)810-1010": {
-        "field": "Phone",
-        "original": "(619)810-1010",
-        "dummy": "(111) 000-1011"
+    "Patient Care Report Number::005b7d74689145b8a6e9b6f7a7ef7678": {
+        "field": "Patient Care Report Number",
+        "original": "005b7d74689145b8a6e9b6f7a7ef7678",
+        "dummy": "00000000000000000000000000000000"
     },
-    "Fax::(619)810-1011": {
-        "field": "Fax",
-        "original": "(619)810-1011",
-        "dummy": "REDACTED"
+    "Incident::24-159096": {
+        "field": "Incident",
+        "original": "24-159096",
+        "dummy": "24-159096"
     }
 }

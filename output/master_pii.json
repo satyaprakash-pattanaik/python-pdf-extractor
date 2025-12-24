@@ -1,102 +1,42 @@
 {
-    "Patient::john doe": {
-        "field": "Patient",
-        "original": "John Doe",
-        "dummy": "HANDROP,RONALD S"
-    },
-    "PATIENT NAME::redacted": {
-        "field": "PATIENT NAME",
-        "original": "REDACTED",
-        "dummy": "HANDROP, RONALD"
-    },
-    "Patient Name::redacted": {
+    "Patient Name::alex brown": {
         "field": "Patient Name",
-        "original": "REDACTED",
-        "dummy": "HANDROP, RONALD"
+        "original": "Alex Brown",
+        "dummy": "Begle ,Peter"
     },
-    "Person::redacted": {
-        "field": "Person",
-        "original": "REDACTED",
-        "dummy": " Handrop,RonaldS"
-    },
-    "REFERRING PHYSICIAN::redacted": {
-        "field": "REFERRING PHYSICIAN",
-        "original": "REDACTED",
-        "dummy": "BLUMENFELD,ANDREW"
-    },
-    "RE::redacted": {
-        "field": "RE",
-        "original": "REDACTED",
-        "dummy": "HANDRODP,RONALD"
-    },
-    "Account/ID::ma-000000": {
-        "field": "Account/ID",
-        "original": "MA-000000",
-        "dummy": "©HARO6CVO"
-    },
-    "RequestID::redacted": {
-        "field": "RequestID",
-        "original": "REDACTED",
-        "dummy": "443858443"
-    },
-    "MRN#::mrn-000000": {
-        "field": "MRN#",
-        "original": "MRN-000000",
-        "dummy": "02-57-08-22"
-    },
-    "MRN::redacted": {
+    "MRN::000000mrn": {
         "field": "MRN",
-        "original": "REDACTED",
-        "dummy": "20211"
+        "original": "000000MRN",
+        "dummy": "7605906"
     },
-    "FIN::fin-000000": {
-        "field": "FIN",
-        "original": "FIN-000000",
-        "dummy": "n/a"
-    },
-    "SHC#::100-000-000": {
-        "field": "SHC#",
-        "original": "100-000-000",
-        "dummy": "100-962-224"
-    },
-    "Date of Birth::01/01/1900": {
-        "field": "Date of Birth",
-        "original": "01/01/1900",
-        "dummy": "12/07/1954"
-    },
-    "DOB/Age/Sex::redacted": {
-        "field": "DOB/Age/Sex",
-        "original": "REDACTED",
-        "dummy": "12/7/1954  68years Male"
-    },
-    "DOB::redacted": {
+    "DOB::01-01-1900": {
         "field": "DOB",
-        "original": "REDACTED",
-        "dummy": "12/07/1954"
+        "original": "01-01-1900",
+        "dummy": "03/19/1937"
     },
-    "Attending::dr. yety uetyer": {
-        "field": "Attending",
-        "original": "Dr. Yety Uetyer",
-        "dummy": "BuckleyMD,ByronJeffrey"
+    "Address::123 dummy street, dummy city": {
+        "field": "Address",
+        "original": "123 Dummy Street, Dummy City",
+        "dummy": "1146 navajo D Fawnskin, CA92333"
     },
-    "Referral By::xxxx xxxx, m.d.": {
-        "field": "Referral By",
-        "original": "Xxxx Xxxx, M.D.",
-        "dummy": "Sanjay Ghosh, M.D."
+    "SSN::000-01-0002": {
+        "field": "SSN",
+        "original": "000-01-0002",
+        "dummy": "999-99-9999"
     },
-    "Hospital::redacted": {
-        "field": "Hospital",
-        "original": "REDACTED",
-        "dummy": "SMI Imaging Center of San Diego,LLC Dr. Sanjay Ghosh 7625 Mesa College Dr. Suite 110A, San Diego, CA 92111"
+    "Patient's Phone Number::9000000001": {
+        "field": "Patient's Phone Number",
+        "original": "9000000001",
+        "dummy": "(909) 800-5237"
     },
-    "Phone::(111) 000-1011": {
-        "field": "Phone",
-        "original": "(111) 000-1011",
-        "dummy": "(619)810-1010"
+    "Patient Care Report Number::00000000000000000000000000000000": {
+        "field": "Patient Care Report Number",
+        "original": "00000000000000000000000000000000",
+        "dummy": "005b7d74689145b8a6e9b6f7a7ef7678"
     },
-    "Fax::redacted": {
-        "field": "Fax",
-        "original": "REDACTED",
-        "dummy": "(619)810-1011"
+    "Incident::24-159096": {
+        "field": "Incident",
+        "original": "24-159096",
+        "dummy": "24-159096"
     }
 }

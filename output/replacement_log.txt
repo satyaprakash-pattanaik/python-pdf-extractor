@@ -1,0 +1,256 @@
+PII REPLACEMENT LOG
+======================================================================
+
+
+Patient Name (12 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle ,Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (175, 193)
+
+2. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle, Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (327, 345)
+
+3. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (2603, 2620)
+
+4. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle
+Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (2948, 2965)
+
+5. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle ,Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (5866, 5884)
+
+6. Original Value: 'Begle ,Peter'
+   Matched Text: 'Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (6193, 6198)
+
+7. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle ,Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (8033, 8051)
+
+8. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name:
+Begle ,Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (8361, 8379)
+
+9. Original Value: 'Begle ,Peter'
+   Matched Text: 'Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (11685, 11690)
+
+10. Original Value: 'Begle ,Peter'
+   Matched Text: 'Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (11986, 11991)
+
+11. Original Value: 'Begle ,Peter'
+   Matched Text: 'Name: Peter
+Begle'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (12723, 12740)
+
+12. Original Value: 'Begle ,Peter'
+   Matched Text: 'Peter'
+   Replaced With: 'Alex Brown'
+   Similarity: 100.0%
+   Position: (13516, 13521)
+
+
+DOB (1 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '03/19/1937'
+   Matched Text: 'Years
+D.O.B:
+03/19/1937'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (525, 548)
+
+
+Address (1 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '1146 navajo D Fawnskin, CA92333'
+   Matched Text: '1146 navajo
+Gender:
+D
+Fawnskin,'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 86.27450980392157%
+   Position: (360, 391)
+
+
+SSN (1 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '999-99-9999'
+   Matched Text: '7.3 kgEstimate
+999-99-9999'
+   Replaced With: '000-01-0002'
+   Similarity: 100.0%
+   Position: (566, 592)
+
+
+Patient's Phone Number (1 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '(909) 800-5237'
+   Matched Text: 'Phone Number
+(909) 800-5237'
+   Replaced With: '9000000001'
+   Similarity: 100.0%
+   Position: (479, 506)
+
+
+Patient Care Report Number (5 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
+   Matched Text: 'Number:
+005b7d74689145b8a6e9b6f7a7ef7678'
+   Replaced With: '00000000000000000000000000000000'
+   Similarity: 100.0%
+   Position: (2641, 2681)
+
+2. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
+   Matched Text: 'Number:
+005b7d74689145b8a6e9b6f7a7ef7678'
+   Replaced With: '00000000000000000000000000000000'
+   Similarity: 100.0%
+   Position: (5905, 5945)
+
+3. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
+   Matched Text: 'Number:
+005b7d74689145b8a6e9b6f7a7ef7678'
+   Replaced With: '00000000000000000000000000000000'
+   Similarity: 100.0%
+   Position: (8072, 8112)
+
+4. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
+   Matched Text: 'Number:
+005b7d74689145b8a6e9b6f7a7ef7678'
+   Replaced With: '00000000000000000000000000000000'
+   Similarity: 100.0%
+   Position: (11751, 11791)
+
+5. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
+   Matched Text: '005b7d74689145b8a6e9bafTa7ef7678'
+   Replaced With: '00000000000000000000000000000000'
+   Similarity: 93.75%
+   Position: (13463, 13495)
+
+
+Incident (11 replacements):
+----------------------------------------------------------------------
+
+1. Original Value: '24-159096'
+   Matched Text: 'Transport
+Method:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (2115, 2142)
+
+2. Original Value: '24-159096'
+   Matched Text: 'Incident #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (2486, 2507)
+
+3. Original Value: '24-159096'
+   Matched Text: 'Call #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (2713, 2730)
+
+4. Original Value: '24-159096'
+   Matched Text: '16:58:25
+Incident#: 24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (5828, 5857)
+
+5. Original Value: '24-159096'
+   Matched Text: 'Call #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (5946, 5963)
+
+6. Original Value: '24-159096'
+   Matched Text: '16:58:25
+Incident#: 24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (7991, 8020)
+
+7. Original Value: '24-159096'
+   Matched Text: 'Call #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (8113, 8130)
+
+8. Original Value: '24-159096'
+   Matched Text: 'Call #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (11691, 11708)
+
+9. Original Value: '24-159096'
+   Matched Text: 'Incident #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (11709, 11730)
+
+10. Original Value: '24-159096'
+   Matched Text: 'Incident #:
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (13413, 13434)
+
+11. Original Value: '24-159096'
+   Matched Text: 'Peter
+Call#
+24-159096'
+   Replaced With: '24-159096'
+   Similarity: 100.0%
+   Position: (13516, 13537)
+
