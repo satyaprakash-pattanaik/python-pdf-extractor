@@ -1,0 +1,66 @@
+{
+  "leaks_found": true,
+  "total_leaks": 10,
+  "leaked_fields": [
+    {
+      "pii_type": "Phone",
+      "matched_text": "16198786635",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Phone",
+      "matched_text": "19516741403",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Hospital",
+      "matched_text": "Inland valley ER",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Sarah",
+      "page": "PAGE 1",
+      "confidence": "medium"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Deja, Olver M.A.",
+      "page": "PAGE 2",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Harvey, Fatimah",
+      "page": "PAGE 3",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Fatimah Harvey FNP",
+      "page": "PAGE 4",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "License",
+      "matched_text": "Provider NP1:1053727982",
+      "page": "PAGE 4",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Insurance",
+      "matched_text": "clami#",
+      "page": "PAGE 4",
+      "confidence": "low"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Naimah Powell M.D.",
+      "page": "PAGE 5",
+      "confidence": "high"
+    }
+  ]
+}

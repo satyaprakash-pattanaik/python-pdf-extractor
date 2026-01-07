@@ -5,14 +5,14 @@ Complete workflow: Extract → Map → Replace → Save
 
 from extraction import extract_pdf_to_text
 from mapping_engine import build_replacement_map, build_master_pii, load_json, save_json
-from replacement_engine import smart_replace
+from replacement_engine import smart_replace, FIELD_CONFIG
 from pathlib import Path
 import sys
 
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-PDF_PATH = r"D:\Demands\Peter Begle\Medical Records\2024.06.30 Big Bear Fire Department.pdf"
+PDF_PATH = r"D:\Demands\Leila Martinez\Medical Records\2024.03.01 Scripps Health.pdf"
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -29,15 +29,25 @@ DUMMY_FILE = "dummy_val.json"
 REPLACEMENT_PII_FILE = OUTPUT_DIR / "replacement_pii.json"
 MASTER_PII_FILE = OUTPUT_DIR / "master_pii.json"
 
-# Custom thresholds (optional - override defaults)
-FIELD_THRESHOLDS = {
-    "Name": 75,
-    "MRN": 85,
-    "DOB": 90,
-    "Phone": 85,
-    "Email": 90,
-    "Address": 75
-}
+
+# ----------------------------
+# BUILD THRESHOLDS FROM PII.JSON
+# ----------------------------
+def build_thresholds_from_pii(pii_data):
+    """
+    Automatically create thresholds for all fields in pii.json
+    Uses defaults from FIELD_CONFIG in replacement_engine.py
+    """
+    thresholds = {}
+    
+    for field in pii_data.keys():
+        # Get threshold from FIELD_CONFIG, or use DEFAULT
+        if field in FIELD_CONFIG:
+            thresholds[field] = FIELD_CONFIG[field]['threshold']
+        else:
+            thresholds[field] = FIELD_CONFIG['DEFAULT']['threshold']
+    
+    return thresholds
 
 
 # ----------------------------
@@ -83,9 +93,21 @@ def main():
     print(f"✅ Loaded {PII_FILE}: {len(pii_data)} field types")
     print(f"✅ Loaded {DUMMY_FILE}: {len(dummy_data)} field types")
     
-    # Show what we're anonymizing
+    # Show what fields we found
+    print(f"\n📋 Fields to anonymize:")
+    for field in pii_data.keys():
+        count = len(pii_data[field]) if isinstance(pii_data[field], list) else 1
+        print(f"   • {field}: {count} value(s)")
+    
+    # Build thresholds dynamically from pii.json fields
+    field_thresholds = build_thresholds_from_pii(pii_data)
+    print(f"\n🎯 Auto-configured thresholds:")
+    for field, threshold in field_thresholds.items():
+        print(f"   • {field}: {threshold}%")
+    
+    # Show total
     total_pii_values = sum(len(v) if isinstance(v, list) else 1 for v in pii_data.values())
-    print(f"📊 Total PII values to anonymize: {total_pii_values}")
+    print(f"\n📊 Total PII values to anonymize: {total_pii_values}")
 
     # ========================================
     # STEP 3: EXTRACT TEXT FROM PDF
@@ -152,7 +174,7 @@ def main():
     sanitized_text, replacement_log = smart_replace(
         extracted_text, 
         replacement_map, 
-        custom_thresholds=FIELD_THRESHOLDS,
+        custom_thresholds=field_thresholds,  # Use auto-built thresholds
         verbose=True
     )
     
@@ -222,6 +244,16 @@ def main():
         print(f"\n📋 Replacements by field type:")
         for field, count in sorted(by_field.items()):
             print(f"   {field}: {count}")
+        
+        # Show if any fields had no replacements
+        expected_fields = set(pii_data.keys())
+        found_fields = set(by_field.keys())
+        missing_fields = expected_fields - found_fields
+        
+        if missing_fields:
+            print(f"\n⚠️  Fields with no matches found:")
+            for field in sorted(missing_fields):
+                print(f"   • {field}")
     
     print(f"\n📁 Output files:")
     print(f"   ├─ Extracted text: {EXTRACTED_TEXT_FILE}")

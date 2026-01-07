@@ -1,42 +1,42 @@
 {
-    "Patient Name::begle ,peter": {
-        "field": "Patient Name",
-        "original": "Begle ,Peter",
-        "dummy": "Alex Brown"
-    },
-    "MRN::7605906": {
+    "MRN::701326527": {
         "field": "MRN",
-        "original": "7605906",
+        "original": "701326527",
         "dummy": "000000MRN"
     },
-    "DOB::03/19/1937": {
+    "MRN::000000mrn": {
+        "field": "MRN",
+        "original": "000000MRN",
+        "dummy": "[REDACTED-MRN-1]"
+    },
+    "DOB::11/9/1948": {
         "field": "DOB",
-        "original": "03/19/1937",
+        "original": "11/9/1948",
         "dummy": "01-01-1900"
     },
-    "Address::1146 navajo d fawnskin, ca92333": {
+    "DOB::01-01-1900": {
+        "field": "DOB",
+        "original": "01-01-1900",
+        "dummy": "[REDACTED-DOB-3]"
+    },
+    "Address::3975 5th avenue, suite 100 san diego, ca 92103-3108": {
         "field": "Address",
-        "original": "1146 navajo D Fawnskin, CA92333",
+        "original": "3975 5th Avenue, Suite 100 San Diego, CA 92103-3108",
         "dummy": "123 Dummy Street, Dummy City"
     },
-    "SSN::999-99-9999": {
-        "field": "SSN",
-        "original": "999-99-9999",
-        "dummy": "000-01-0002"
+    "Address::751 s bascom ave, san jose, ca 95128": {
+        "field": "Address",
+        "original": "751 S BASCOM AVE, SAN JOSE, CA 95128",
+        "dummy": "[REDACTED-Address-5]"
     },
-    "Patient's Phone Number::(909) 800-5237": {
-        "field": "Patient's Phone Number",
-        "original": "(909) 800-5237",
-        "dummy": "9000000001"
+    "Address::santa clara valley medical center, 751 s bascom ave, san jose, ca 95128": {
+        "field": "Address",
+        "original": "santa clara valley medical center, 751 s bascom ave, san jose, ca 95128",
+        "dummy": "[REDACTED-Address-6]"
     },
-    "Patient Care Report Number::005b7d74689145b8a6e9b6f7a7ef7678": {
-        "field": "Patient Care Report Number",
-        "original": "005b7d74689145b8a6e9b6f7a7ef7678",
-        "dummy": "00000000000000000000000000000000"
-    },
-    "Incident::24-159096": {
-        "field": "Incident",
-        "original": "24-159096",
-        "dummy": "24-159096"
+    "Address::po box 235498": {
+        "field": "Address",
+        "original": "PO Box 235498",
+        "dummy": "[REDACTED-Address-7]"
     }
 }

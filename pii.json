@@ -1,11 +1,36 @@
 {
-    "Patient Name":"Begle ,Peter",
-    "Name": "Begle, Peter",
-    "MRN": "7605906",
-    "DOB": "03/19/1937",
-    "Address": "1146 navajo D Fawnskin, CA92333",
-    "SSN":"999-99-9999",
-    "Patient's Phone Number":"(909) 800-5237",
-    "Patient Care Report Number":"005b7d74689145b8a6e9b6f7a7ef7678",
-    "Incident":"24-159096"
-}  
+    "Name": [
+        "Martinez, Lelia M",
+        "Martinez, Lelia",
+        "Lelia Martinez"
+    ],
+    "Doctor": [
+        "Norton, Valerie Constance, MD",
+        "Norton, Valerie Constance",
+        "Valerie Constance Norton"
+    ],
+    "MRN": [
+        "701326527",
+        "000000MRN"
+    ],
+    "DOB": [
+        "11/9/1948",
+        "01-01-1900"
+    ],
+    "Sex": [
+        "Female",
+        "MALE"
+    ],
+    "Healthcare": [
+        "Scripps Mercy HEALTH Hospital San Diego",
+        "Scripps Health",
+        "SCRIPPS HEALTH",
+        "SANTA CLARA VALLEY MEDICAL CENTER"
+    ],
+    "Address": [
+        "3975 5th Avenue, Suite 100 San Diego, CA 92103-3108",
+        "751 S BASCOM AVE, SAN JOSE, CA 95128",
+        "santa clara valley medical center, 751 s bascom ave, san jose, ca 95128",
+        "PO Box 235498"
+    ]
+}

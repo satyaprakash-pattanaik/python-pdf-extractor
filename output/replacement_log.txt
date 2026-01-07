@@ -2,255 +2,5366 @@ PII REPLACEMENT LOG
 ======================================================================
 
 
-Patient Name (12 replacements):
+MRN (318 replacements):
 ----------------------------------------------------------------------
 
-1. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle ,Peter'
-   Replaced With: 'Alex Brown'
+1. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (175, 193)
+   Position: (67, 68)
 
-2. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle, Peter'
-   Replaced With: 'Alex Brown'
+2. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (327, 345)
+   Position: (318, 333)
 
-3. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle Peter'
-   Replaced With: 'Alex Brown'
+3. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (2603, 2620)
+   Position: (640, 641)
 
-4. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle
-Peter'
-   Replaced With: 'Alex Brown'
+4. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (2948, 2965)
+   Position: (693, 694)
 
-5. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle ,Peter'
-   Replaced With: 'Alex Brown'
+5. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (5866, 5884)
+   Position: (728, 729)
 
-6. Original Value: 'Begle ,Peter'
-   Matched Text: 'Peter'
-   Replaced With: 'Alex Brown'
+6. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (6193, 6198)
+   Position: (738, 739)
 
-7. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle ,Peter'
-   Replaced With: 'Alex Brown'
+7. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (8033, 8051)
+   Position: (2053, 2054)
 
-8. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name:
-Begle ,Peter'
-   Replaced With: 'Alex Brown'
+8. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (8361, 8379)
+   Position: (2305, 2320)
 
-9. Original Value: 'Begle ,Peter'
-   Matched Text: 'Peter'
-   Replaced With: 'Alex Brown'
+9. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (11685, 11690)
+   Position: (3106, 3107)
 
-10. Original Value: 'Begle ,Peter'
-   Matched Text: 'Peter'
-   Replaced With: 'Alex Brown'
+10. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (11986, 11991)
+   Position: (3322, 3337)
 
-11. Original Value: 'Begle ,Peter'
-   Matched Text: 'Name: Peter
-Begle'
-   Replaced With: 'Alex Brown'
+11. Original Value: '701326527'
+   Matched Text: '1.'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (12723, 12740)
+   Position: (4927, 4929)
 
-12. Original Value: 'Begle ,Peter'
-   Matched Text: 'Peter'
-   Replaced With: 'Alex Brown'
+12. Original Value: '701326527'
+   Matched Text: '2.'
+   Replaced With: '000000MRN'
    Similarity: 100.0%
-   Position: (13516, 13521)
+   Position: (4972, 4974)
+
+13. Original Value: '701326527'
+   Matched Text: '3.'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5021, 5023)
+
+14. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5176, 5177)
+
+15. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5564, 5579)
+
+16. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5665, 5666)
+
+17. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5707, 5708)
+
+18. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5787, 5788)
+
+19. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5826, 5827)
+
+20. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (5922, 5923)
+
+21. Original Value: '701326527'
+   Matched Text: '5%'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (6089, 6091)
+
+22. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (6257, 6258)
+
+23. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (6453, 6468)
+
+24. Original Value: '701326527'
+   Matched Text: '26'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (7675, 7677)
+
+25. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (7745, 7746)
+
+26. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (7940, 7955)
+
+27. Original Value: '701326527'
+   Matched Text: '- 1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (8251, 8254)
+
+28. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (8331, 8332)
+
+29. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (8494, 8495)
+
+30. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (9311, 9312)
+
+31. Original Value: '701326527'
+   Matched Text: '27'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (9399, 9401)
+
+32. Original Value: '701326527'
+   Matched Text: '7'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (9469, 9470)
+
+33. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (9681, 9696)
+
+34. Original Value: '701326527'
+   Matched Text: '- 1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (10038, 10041)
+
+35. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (10079, 10080)
+
+36. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (11033, 11034)
+
+37. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (11502, 11503)
+
+38. Original Value: '701326527'
+   Matched Text: '32'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (11661, 11663)
+
+39. Original Value: '701326527'
+   Matched Text: '32'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (11739, 11741)
+
+40. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (12617, 12632)
+
+41. Original Value: '701326527'
+   Matched Text: '- 1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (13472, 13475)
+
+42. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (14670, 14685)
+
+43. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (14916, 14917)
+
+44. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (16364, 16365)
+
+45. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (16829, 16844)
+
+46. Original Value: '701326527'
+   Matched Text: '3:'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (17614, 17616)
+
+47. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (18366, 18381)
+
+48. Original Value: '701326527'
+   Matched Text: '- 1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (18927, 18930)
+
+49. Original Value: '701326527'
+   Matched Text: '2.'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (19042, 19044)
+
+50. Original Value: '701326527'
+   Matched Text: '2.'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (19715, 19717)
+
+51. Original Value: '701326527'
+   Matched Text: '32'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (19776, 19778)
+
+52. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (20030, 20045)
+
+53. Original Value: '701326527'
+   Matched Text: '- 1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (20411, 20414)
+
+54. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21190, 21191)
+
+55. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21228, 21229)
+
+56. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21270, 21271)
+
+57. Original Value: '701326527'
+   Matched Text: '#1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21329, 21331)
+
+58. Original Value: '701326527'
+   Matched Text: '2.'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21491, 21493)
+
+59. Original Value: '701326527'
+   Matched Text: '13'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21693, 21695)
+
+60. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (21877, 21892)
+
+61. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (22677, 22678)
+
+62. Original Value: '701326527'
+   Matched Text: '3:'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (22707, 22709)
+
+63. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (22710, 22711)
+
+64. Original Value: '701326527'
+   Matched Text: '2:'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (22923, 22925)
+
+65. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (23053, 23054)
+
+66. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (23594, 23609)
+
+67. Original Value: '701326527'
+   Matched Text: '5%'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (23887, 23889)
+
+68. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (24111, 24112)
+
+69. Original Value: '701326527'
+   Matched Text: '>1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (24134, 24136)
+
+70. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (24166, 24167)
+
+71. Original Value: '701326527'
+   Matched Text: '5%'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (24561, 24563)
+
+72. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (25117, 25132)
+
+73. Original Value: '701326527'
+   Matched Text: '1-'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (25568, 25570)
+
+74. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (25974, 25989)
+
+75. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26308, 26309)
+
+76. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26310, 26311)
+
+77. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26312, 26313)
+
+78. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26314, 26315)
+
+79. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26378, 26379)
+
+80. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26380, 26381)
+
+81. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (26901, 26916)
+
+82. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (27131, 27132)
+
+83. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (27373, 27374)
+
+84. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (27572, 27573)
+
+85. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (28097, 28112)
+
+86. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (28721, 28722)
+
+87. Original Value: '701326527'
+   Matched Text: 'MAN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (29174, 29189)
+
+88. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (31402, 31403)
+
+89. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (31986, 32001)
+
+90. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (32946, 32947)
+
+91. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (33536, 33551)
+
+92. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (34926, 34942)
+
+93. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (35352, 35367)
+
+94. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (35469, 35485)
+
+95. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (35555, 35556)
+
+96. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (35886, 35901)
+
+97. Original Value: '701326527'
+   Matched Text: '§:2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (36345, 36348)
+
+98. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (36527, 36543)
+
+99. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (36613, 36614)
+
+100. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (36941, 36956)
+
+101. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (37296, 37297)
+
+102. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (37491, 37507)
+
+103. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (37910, 37925)
+
+104. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527)'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (38720, 38736)
+
+105. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (38806, 38807)
+
+106. Original Value: '701326527'
+   Matched Text: '26'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (38950, 38952)
+
+107. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (39146, 39161)
+
+108. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (39263, 39279)
+
+109. Original Value: '701326527'
+   Matched Text: '6'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (39349, 39350)
+
+110. Original Value: '701326527'
+   Matched Text: '27'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (39493, 39495)
+
+111. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (39705, 39720)
+
+112. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (41901, 41917)
+
+113. Original Value: '701326527'
+   Matched Text: '7'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (41987, 41988)
+
+114. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (42316, 42331)
+
+115. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (43980, 43996)
+
+116. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (44402, 44417)
+
+117. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (45397, 45398)
+
+118. Original Value: '701326527'
+   Matched Text: '0'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (45848, 45849)
+
+119. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (45939, 45955)
+
+120. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (46353, 46368)
+
+121. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (47704, 47720)
+
+122. Original Value: '701326527'
+   Matched Text: '65'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (47866, 47868)
+
+123. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (48120, 48135)
+
+124. Original Value: '701326527'
+   Matched Text: '3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (48253, 48254)
+
+125. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (48543, 48544)
+
+126. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (48675, 48691)
+
+127. Original Value: '701326527'
+   Matched Text: '32'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (48905, 48907)
+
+128. Original Value: '701326527'
+   Matched Text: '2'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (49268, 49269)
+
+129. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527)'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (49602, 49618)
+
+130. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (49767, 49782)
+
+131. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (50065, 50080)
+
+132. Original Value: '701326527'
+   Matched Text: '|
+3'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (50365, 50368)
+
+133. Original Value: '701326527'
+   Matched Text: '5'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (50401, 50402)
+
+134. Original Value: '701326527'
+   Matched Text: '1'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (50417, 50418)
+
+135. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (50921, 50937)
+
+136. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (51347, 51362)
+
+137. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (51464, 51480)
+
+138. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (51901, 51916)
+
+139. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (54116, 54132)
+
+140. Original Value: '701326527'
+   Matched Text: '70'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (54278, 54280)
+
+141. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (54537, 54552)
+
+142. Original Value: '701326527'
+   Matched Text: '(MRN: 701326527}'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (55839, 55855)
+
+143. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (56254, 56269)
+
+144. Original Value: '701326527'
+   Matched Text: '70132652.'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (57192, 57201)
+
+145. Original Value: '701326527'
+   Matched Text: 'MRN: 701326527,'
+   Replaced With: '000000MRN'
+   Similarity: 100.0%
+   Position: (57624, 57639)
+
+146. Original Value: '701326527'
+   Matched Text: '(780)'
+   Replaced With: '000000MRN'
+   Similarity: 80.0%
+   Position: (47330, 47335)
+
+147. Original Value: '701326527'
+   Matched Text: '1026'
+   Replaced With: '000000MRN'
+   Similarity: 75.0%
+   Position: (17889, 17893)
+
+148. Original Value: '701326527'
+   Matched Text: '1026'
+   Replaced With: '000000MRN'
+   Similarity: 75.0%
+   Position: (28664, 28668)
+
+149. Original Value: '701326527'
+   Matched Text: '0813'
+   Replaced With: '000000MRN'
+   Similarity: 75.0%
+   Position: (32387, 32391)
+
+150. Original Value: '701326527'
+   Matched Text: '0812'
+   Replaced With: '000000MRN'
+   Similarity: 75.0%
+   Position: (32403, 32407)
+
+151. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (294, 295)
+
+152. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (318, 322)
+
+153. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (1026, 1027)
+
+154. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (2281, 2282)
+
+155. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (2305, 2309)
+
+156. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (3282, 3283)
+
+157. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (3322, 3326)
+
+158. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (5562, 5563)
+
+159. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (5564, 5568)
+
+160. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (6430, 6431)
+
+161. Original Value: '000000MRN'
+   Matched Text: 'R'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (6437, 6438)
+
+162. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (6453, 6457)
+
+163. Original Value: '000000MRN'
+   Matched Text: 'R'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (7349, 7350)
+
+164. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (7912, 7913)
+
+165. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (7940, 7944)
+
+166. Original Value: '000000MRN'
+   Matched Text: 'r'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (8374, 8375)
+
+167. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (9665, 9666)
+
+168. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (9681, 9685)
+
+169. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (12601, 12602)
+
+170. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (12617, 12621)
+
+171. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (14654, 14655)
+
+172. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (14670, 14674)
+
+173. Original Value: '000000MRN'
+   Matched Text: 'r.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (16273, 16275)
+
+174. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (16827, 16828)
+
+175. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (16829, 16833)
+
+176. Original Value: '000000MRN'
+   Matched Text: '00'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (17522, 17524)
+
+177. Original Value: '000000MRN'
+   Matched Text: 'RN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (17687, 17689)
+
+178. Original Value: '000000MRN'
+   Matched Text: 'RN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (17877, 17879)
+
+179. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (17976, 17977)
+
+180. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (18350, 18351)
+
+181. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (18366, 18370)
+
+182. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (18667, 18668)
+
+183. Original Value: '000000MRN'
+   Matched Text: 'RN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (18964, 18966)
+
+184. Original Value: '000000MRN'
+   Matched Text: 'RN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (19631, 19633)
+
+185. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (20014, 20015)
+
+186. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (20030, 20034)
+
+187. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (21861, 21862)
+
+188. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (21877, 21881)
+
+189. Original Value: '000000MRN'
+   Matched Text: 'r.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (23175, 23177)
+
+190. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (23573, 23574)
+
+191. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (23594, 23598)
+
+192. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (25117, 25121)
+
+193. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (25974, 25978)
+
+194. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (26901, 26905)
+
+195. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (28097, 28101)
+
+196. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (29148, 29149)
+
+197. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (31959, 31960)
+
+198. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (31986, 31990)
+
+199. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (32352, 32353)
+
+200. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (33525, 33526)
+
+201. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (33536, 33540)
+
+202. Original Value: '000000MRN'
+   Matched Text: 'M,'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (34914, 34916)
+
+203. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (34926, 34931)
+
+204. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35331, 35332)
+
+205. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35352, 35356)
+
+206. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35457, 35459)
+
+207. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35469, 35474)
+
+208. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35867, 35868)
+
+209. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (35886, 35890)
+
+210. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (36016, 36018)
+
+211. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (36515, 36517)
+
+212. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (36527, 36532)
+
+213. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (36925, 36926)
+
+214. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (36941, 36945)
+
+215. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (37479, 37481)
+
+216. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (37491, 37496)
+
+217. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (37894, 37895)
+
+218. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (37910, 37914)
+
+219. Original Value: '000000MRN'
+   Matched Text: '00'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (38025, 38027)
+
+220. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (38708, 38710)
+
+221. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (38720, 38725)
+
+222. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39125, 39126)
+
+223. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39146, 39150)
+
+224. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39251, 39253)
+
+225. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39263, 39268)
+
+226. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39674, 39675)
+
+227. Original Value: '000000MRN'
+   Matched Text: 'N'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39686, 39687)
+
+228. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (39705, 39709)
+
+229. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (41889, 41891)
+
+230. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (41901, 41906)
+
+231. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (42300, 42301)
+
+232. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (42316, 42320)
+
+233. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (43968, 43970)
+
+234. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (43980, 43985)
+
+235. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (44386, 44387)
+
+236. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (44402, 44406)
+
+237. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (45927, 45929)
+
+238. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (45939, 45944)
+
+239. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (46337, 46338)
+
+240. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (46353, 46357)
+
+241. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (47692, 47694)
+
+242. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (47704, 47709)
+
+243. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (48104, 48105)
+
+244. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (48120, 48124)
+
+245. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (48241, 48243)
+
+246. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (48663, 48665)
+
+247. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (48675, 48680)
+
+248. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (49445, 49446)
+
+249. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (49590, 49592)
+
+250. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (49602, 49607)
+
+251. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (49767, 49771)
+
+252. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50049, 50050)
+
+253. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50065, 50069)
+
+254. Original Value: '000000MRN'
+   Matched Text: '00'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50185, 50187)
+
+255. Original Value: '000000MRN'
+   Matched Text: '00'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50296, 50298)
+
+256. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50909, 50911)
+
+257. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (50921, 50926)
+
+258. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51326, 51327)
+
+259. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51347, 51351)
+
+260. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51452, 51454)
+
+261. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51464, 51469)
+
+262. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51875, 51876)
+
+263. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (51901, 51905)
+
+264. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (54104, 54106)
+
+265. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (54116, 54121)
+
+266. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (54521, 54522)
+
+267. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (54537, 54541)
+
+268. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (55827, 55829)
+
+269. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (55839, 55844)
+
+270. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (56238, 56239)
+
+271. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (56254, 56258)
+
+272. Original Value: '000000MRN'
+   Matched Text: 'M.'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (57174, 57176)
+
+273. Original Value: '000000MRN'
+   Matched Text: '(MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (57186, 57191)
+
+274. Original Value: '000000MRN'
+   Matched Text: 'M'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (57599, 57600)
+
+275. Original Value: '000000MRN'
+   Matched Text: 'MRN:'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 100.0%
+   Position: (57624, 57628)
+
+276. Original Value: '000000MRN'
+   Matched Text: '1000,'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 85.71428571428572%
+   Position: (13615, 13620)
+
+277. Original Value: '000000MRN'
+   Matched Text: '1000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 85.71428571428572%
+   Position: (16107, 16111)
+
+278. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (648, 651)
+
+279. Original Value: '000000MRN'
+   Matched Text: '400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (673, 676)
+
+280. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (701, 704)
+
+281. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (2941, 2944)
+
+282. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (2945, 2948)
+
+283. Original Value: '000000MRN'
+   Matched Text: '500'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (5646, 5649)
+
+284. Original Value: '000000MRN'
+   Matched Text: '400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (5768, 5771)
+
+285. Original Value: '000000MRN'
+   Matched Text: '(400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (5796, 5800)
+
+286. Original Value: '000000MRN'
+   Matched Text: '500'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (6037, 6040)
+
+287. Original Value: '000000MRN'
+   Matched Text: '400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (6063, 6066)
+
+288. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (17843, 17846)
+
+289. Original Value: '000000MRN'
+   Matched Text: '004'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (18608, 18611)
+
+290. Original Value: '000000MRN'
+   Matched Text: '007'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (18643, 18646)
+
+291. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (19439, 19442)
+
+292. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (20269, 20272)
+
+293. Original Value: '000000MRN'
+   Matched Text: '600'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (20501, 20504)
+
+294. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (20796, 20799)
+
+295. Original Value: '000000MRN'
+   Matched Text: '500'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (20865, 20868)
+
+296. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (21084, 21087)
+
+297. Original Value: '000000MRN'
+   Matched Text: '500'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (21142, 21145)
+
+298. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (21198, 21201)
+
+299. Original Value: '000000MRN'
+   Matched Text: '400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (22133, 22136)
+
+300. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (22323, 22326)
+
+301. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (22574, 22577)
+
+302. Original Value: '000000MRN'
+   Matched Text: 'PRN'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (22685, 22688)
+
+303. Original Value: '000000MRN'
+   Matched Text: '(400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (38147, 38151)
+
+304. Original Value: '000000MRN'
+   Matched Text: '400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (48551, 48554)
+
+305. Original Value: '000000MRN'
+   Matched Text: '(400'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 80.0%
+   Position: (50322, 50326)
+
+306. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (619, 624)
+
+307. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (2864, 2869)
+
+308. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (2892, 2897)
+
+309. Original Value: '000000MRN'
+   Matched Text: '(1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (5675, 5681)
+
+310. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (17297, 17302)
+
+311. Original Value: '000000MRN'
+   Matched Text: ':: 1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (17362, 17370)
+
+312. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (18746, 18751)
+
+313. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (19089, 19094)
+
+314. Original Value: '000000MRN'
+   Matched Text: '1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (19357, 19362)
+
+315. Original Value: '000000MRN'
+   Matched Text: '=: 1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (21168, 21176)
+
+316. Original Value: '000000MRN'
+   Matched Text: '(1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (21238, 21244)
+
+317. Original Value: '000000MRN'
+   Matched Text: '(1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (38052, 38058)
+
+318. Original Value: '000000MRN'
+   Matched Text: '(1,000'
+   Replaced With: '[REDACTED-MRN-1]'
+   Similarity: 75.0%
+   Position: (50212, 50218)
 
 
-DOB (1 replacements):
+DOB (86 replacements):
 ----------------------------------------------------------------------
 
-1. Original Value: '03/19/1937'
-   Matched Text: 'Years
-D.O.B:
-03/19/1937'
+1. Original Value: '11/9/1948'
+   Matched Text: '1
+============================================================'
    Replaced With: '01-01-1900'
    Similarity: 100.0%
-   Position: (525, 548)
+   Position: (67, 129)
+
+2. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (318, 349)
+
+3. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (2305, 2336)
+
+4. Original Value: '11/9/1948'
+   Matched Text: '4'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (2618, 2619)
+
+5. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (3322, 3353)
+
+6. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (3368, 3369)
+
+7. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (4526, 4527)
+
+8. Original Value: '11/9/1948'
+   Matched Text: '4
+============================================================'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (5319, 5381)
+
+9. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (5564, 5595)
+
+10. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (6453, 6484)
+
+11. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (7940, 7971)
+
+12. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (9681, 9712)
+
+13. Original Value: '11/9/1948'
+   Matched Text: '8
+============================================================'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (12434, 12496)
+
+14. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (12617, 12648)
+
+15. Original Value: '11/9/1948'
+   Matched Text: '9
+============================================================'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (14486, 14548)
+
+16. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (14670, 14701)
+
+17. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (16829, 16860)
+
+18. Original Value: '11/9/1948'
+   Matched Text: '4'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (17394, 17395)
+
+19. Original Value: '11/9/1948'
+   Matched Text: '11
+============================================================'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (18180, 18243)
+
+20. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (18366, 18397)
+
+21. Original Value: '11/9/1948'
+   Matched Text: '4'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (19016, 19017)
+
+22. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (20030, 20061)
+
+23. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (21877, 21908)
+
+24. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (23594, 23625)
+
+25. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (25047, 25048)
+
+26. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (25083, 25084)
+
+27. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (25117, 25148)
+
+28. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (25974, 26005)
+
+29. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (26901, 26932)
+
+30. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (27129, 27130)
+
+31. Original Value: '11/9/1948'
+   Matched Text: '4'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (27371, 27372)
+
+32. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (28097, 28128)
+
+33. Original Value: '11/9/1948'
+   Matched Text: '19
+============================================================'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (28972, 29035)
+
+34. Original Value: '11/9/1948'
+   Matched Text: 'MAN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (29174, 29205)
+
+35. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (31986, 32017)
+
+36. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (33536, 33567)
+
+37. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (35352, 35383)
+
+38. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (35886, 35917)
+
+39. Original Value: '11/9/1948'
+   Matched Text: '%:8%:*'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (36028, 36034)
+
+40. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (36941, 36972)
+
+41. Original Value: '11/9/1948'
+   Matched Text: '4'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (37577, 37578)
+
+42. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (37910, 37941)
+
+43. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (39146, 39177)
+
+44. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (39705, 39736)
+
+45. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (42316, 42347)
+
+46. Original Value: '11/9/1948'
+   Matched Text: '9'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (43619, 43620)
+
+47. Original Value: '11/9/1948'
+   Matched Text: '8'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (44066, 44067)
+
+48. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (44402, 44433)
+
+49. Original Value: '11/9/1948'
+   Matched Text: '9'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (46025, 46026)
+
+50. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (46353, 46384)
+
+51. Original Value: '11/9/1948'
+   Matched Text: '19'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (47791, 47793)
+
+52. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (48120, 48151)
+
+53. Original Value: '11/9/1948'
+   Matched Text: '11'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (48760, 48762)
+
+54. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (49767, 49798)
+
+55. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (50065, 50096)
+
+56. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (51347, 51378)
+
+57. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (51901, 51932)
+
+58. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (54537, 54568)
+
+59. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (56254, 56285)
+
+60. Original Value: '11/9/1948'
+   Matched Text: '9/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (57223, 57230)
+
+61. Original Value: '11/9/1948'
+   Matched Text: 'MRN: 701326527, DOB: 11/9/1948,'
+   Replaced With: '01-01-1900'
+   Similarity: 100.0%
+   Position: (57624, 57655)
+
+62. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (41/9/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 94.11764705882352%
+   Position: (34917, 34954)
+
+63. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527) (71/9/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 94.11764705882352%
+   Position: (38711, 38748)
+
+64. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527) (71/9/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 94.11764705882352%
+   Position: (49593, 49630)
+
+65. Original Value: '11/9/1948'
+   Matched Text: '#9148 -'
+   Replaced With: '01-01-1900'
+   Similarity: 85.71428571428572%
+   Position: (21403, 21410)
+
+66. Original Value: '11/9/1948'
+   Matched Text: '#9148 -'
+   Replaced With: '01-01-1900'
+   Similarity: 85.71428571428572%
+   Position: (22835, 22842)
+
+67. Original Value: '11/9/1948'
+   Matched Text: '#9148 -'
+   Replaced With: '01-01-1900'
+   Similarity: 85.71428571428572%
+   Position: (24430, 24437)
+
+68. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (35460, 35497)
+
+69. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (36518, 36555)
+
+70. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (37482, 37519)
+
+71. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (39254, 39291)
+
+72. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (41892, 41929)
+
+73. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (43971, 44008)
+
+74. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (45930, 45967)
+
+75. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (47695, 47732)
+
+76. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (1/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (48666, 48702)
+
+77. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (50912, 50949)
+
+78. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (51455, 51492)
+
+79. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (71/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (54107, 54144)
+
+80. Original Value: '11/9/1948'
+   Matched Text: 'Martinez (MRN: 701326527} (1/2/1948)'
+   Replaced With: '01-01-1900'
+   Similarity: 82.35294117647058%
+   Position: (55830, 55866)
+
+81. Original Value: '01-01-1900'
+   Matched Text: '- 90'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 100.0%
+   Position: (23261, 23265)
+
+82. Original Value: '01-01-1900'
+   Matched Text: '- 90'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 100.0%
+   Position: (24080, 24084)
+
+83. Original Value: '01-01-1900'
+   Matched Text: '1
+1'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 100.0%
+   Position: (26312, 26315)
+
+84. Original Value: '01-01-1900'
+   Matched Text: '1040
+}'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 75.0%
+   Position: (20935, 20941)
+
+85. Original Value: '01-01-1900'
+   Matched Text: '1040
+:'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 75.0%
+   Position: (20980, 20986)
+
+86. Original Value: '01-01-1900'
+   Matched Text: '1040
+‘:'
+   Replaced With: '[REDACTED-DOB-3]'
+   Similarity: 75.0%
+   Position: (29474, 29481)
 
 
-Address (1 replacements):
+Address (465 replacements):
 ----------------------------------------------------------------------
 
-1. Original Value: '1146 navajo D Fawnskin, CA92333'
-   Matched Text: '1146 navajo
-Gender:
-D
-Fawnskin,'
+1. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (213, 215)
+
+2. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
    Replaced With: '123 dummy street, dummy city'
-   Similarity: 86.27450980392157%
-   Position: (360, 391)
-
-
-SSN (1 replacements):
-----------------------------------------------------------------------
-
-1. Original Value: '999-99-9999'
-   Matched Text: '7.3 kgEstimate
-999-99-9999'
-   Replaced With: '000-01-0002'
    Similarity: 100.0%
-   Position: (566, 592)
+   Position: (299, 300)
 
-
-Patient's Phone Number (1 replacements):
-----------------------------------------------------------------------
-
-1. Original Value: '(909) 800-5237'
-   Matched Text: 'Phone Number
-(909) 800-5237'
-   Replaced With: '9000000001'
+3. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (479, 506)
+   Position: (1246, 1247)
 
-
-Patient Care Report Number (5 replacements):
-----------------------------------------------------------------------
-
-1. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
-   Matched Text: 'Number:
-005b7d74689145b8a6e9b6f7a7ef7678'
-   Replaced With: '00000000000000000000000000000000'
+4. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (2641, 2681)
+   Position: (1351, 1352)
 
-2. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
-   Matched Text: 'Number:
-005b7d74689145b8a6e9b6f7a7ef7678'
-   Replaced With: '00000000000000000000000000000000'
+5. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (5905, 5945)
+   Position: (2200, 2202)
 
-3. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
-   Matched Text: 'Number:
-005b7d74689145b8a6e9b6f7a7ef7678'
-   Replaced With: '00000000000000000000000000000000'
+6. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (8072, 8112)
+   Position: (2286, 2287)
 
-4. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
-   Matched Text: 'Number:
-005b7d74689145b8a6e9b6f7a7ef7678'
-   Replaced With: '00000000000000000000000000000000'
+7. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '“s'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (11751, 11791)
+   Position: (3299, 3301)
 
-5. Original Value: '005b7d74689145b8a6e9b6f7a7ef7678'
-   Matched Text: '005b7d74689145b8a6e9bafTa7ef7678'
-   Replaced With: '00000000000000000000000000000000'
-   Similarity: 93.75%
-   Position: (13463, 13495)
-
-
-Incident (11 replacements):
-----------------------------------------------------------------------
-
-1. Original Value: '24-159096'
-   Matched Text: 'Transport
-Method:
-24-159096'
-   Replaced With: '24-159096'
+8. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (2115, 2142)
+   Position: (3373, 3374)
 
-2. Original Value: '24-159096'
-   Matched Text: 'Incident #:
-24-159096'
-   Replaced With: '24-159096'
+9. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (2486, 2507)
+   Position: (3385, 3387)
 
-3. Original Value: '24-159096'
-   Matched Text: 'Call #:
-24-159096'
-   Replaced With: '24-159096'
+10. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
    Similarity: 100.0%
-   Position: (2713, 2730)
+   Position: (3470, 3473)
 
-4. Original Value: '24-159096'
-   Matched Text: '16:58:25
-Incident#: 24-159096'
-   Replaced With: '24-159096'
+11. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
    Similarity: 100.0%
-   Position: (5828, 5857)
+   Position: (3474, 3479)
 
-5. Original Value: '24-159096'
-   Matched Text: 'Call #:
-24-159096'
-   Replaced With: '24-159096'
+12. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (5946, 5963)
+   Position: (3589, 3590)
 
-6. Original Value: '24-159096'
-   Matched Text: '16:58:25
-Incident#: 24-159096'
-   Replaced With: '24-159096'
+13. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
    Similarity: 100.0%
-   Position: (7991, 8020)
+   Position: (3914, 3915)
 
-7. Original Value: '24-159096'
-   Matched Text: 'Call #:
-24-159096'
-   Replaced With: '24-159096'
+14. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'It'
+   Replaced With: '123 Dummy Street, Dummy City'
    Similarity: 100.0%
-   Position: (8113, 8130)
+   Position: (4724, 4726)
 
-8. Original Value: '24-159096'
-   Matched Text: 'Call #:
-24-159096'
-   Replaced With: '24-159096'
+15. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'I'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (11691, 11708)
+   Position: (4810, 4811)
 
-9. Original Value: '24-159096'
-   Matched Text: 'Incident #:
-24-159096'
-   Replaced With: '24-159096'
+16. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (11709, 11730)
+   Position: (5128, 5129)
 
-10. Original Value: '24-159096'
-   Matched Text: 'Incident #:
-24-159096'
-   Replaced With: '24-159096'
+17. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (13413, 13434)
+   Position: (5151, 5153)
 
-11. Original Value: '24-159096'
-   Matched Text: 'Peter
-Call#
-24-159096'
-   Replaced With: '24-159096'
+18. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'S.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
    Similarity: 100.0%
-   Position: (13516, 13537)
+   Position: (5423, 5425)
+
+19. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'A'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (5426, 5427)
+
+20. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (5496, 5498)
+
+21. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (6432, 6433)
+
+22. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (6514, 6516)
+
+23. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (7577, 7578)
+
+24. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (8000, 8002)
+
+25. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (8085, 8088)
+
+26. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (8089, 8094)
+
+27. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '1'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (8253, 8254)
+
+28. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'G'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (8406, 8407)
+
+29. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (9086, 9088)
+
+30. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (9271, 9273)
+
+31. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (9632, 9633)
+
+32. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (9730, 9732)
+
+33. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (9797, 9800)
+
+34. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (9801, 9806)
+
+35. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '1'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (10040, 10041)
+
+36. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (10147, 10148)
+
+37. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i’'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (10304, 10306)
+
+38. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (10318, 10320)
+
+39. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (11491, 11492)
+
+40. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '8'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (12434, 12435)
+
+41. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (12666, 12668)
+
+42. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (12751, 12754)
+
+43. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (12755, 12760)
+
+44. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (13189, 13191)
+
+45. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i:'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (13384, 13386)
+
+46. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '1'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (13474, 13475)
+
+47. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (13585, 13586)
+
+48. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i’'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (13742, 13744)
+
+49. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (13756, 13758)
+
+50. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '9'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (14486, 14487)
+
+51. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (14719, 14721)
+
+52. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (14804, 14807)
+
+53. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (14808, 14813)
+
+54. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (14905, 14906)
+
+55. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'T,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (16088, 16090)
+
+56. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's:'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (16311, 16313)
+
+57. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '10'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (16598, 16600)
+
+58. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (16760, 16762)
+
+59. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (16921, 16924)
+
+60. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (16925, 16930)
+
+61. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (17006, 17009)
+
+62. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (17010, 17015)
+
+63. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (17153, 17156)
+
+64. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (17157, 17162)
+
+65. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'g'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (17396, 17397)
+
+66. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'A,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (17684, 17686)
+
+67. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's:'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (17751, 17753)
+
+68. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (17855, 17856)
+
+69. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'A,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (17874, 17876)
+
+70. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '31'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (18110, 18112)
+
+71. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (18419, 18421)
+
+72. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (18506, 18509)
+
+73. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (18510, 18515)
+
+74. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '1'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (18929, 18930)
+
+75. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'A,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (18961, 18963)
+
+76. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'g'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (19018, 19019)
+
+77. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'A,'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (19628, 19630)
+
+78. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (20079, 20081)
+
+79. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (20166, 20169)
+
+80. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (20170, 20175)
+
+81. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'c'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (20360, 20361)
+
+82. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '1'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (20413, 20414)
+
+83. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'c'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (20760, 20761)
+
+84. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'e.'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (20829, 20831)
+
+85. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (21411, 21414)
+
+86. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (21415, 21421)
+
+87. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (21422, 21424)
+
+88. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (21431, 21433)
+
+89. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (21453, 21455)
+
+90. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (21472, 21475)
+
+91. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (21476, 21481)
+
+92. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (21482, 21484)
+
+93. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (21485, 21490)
+
+94. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (21926, 21928)
+
+95. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22013, 22016)
+
+96. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22017, 22022)
+
+97. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'C'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (22255, 22256)
+
+98. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22843, 22846)
+
+99. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22847, 22853)
+
+100. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (22854, 22856)
+
+101. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (22863, 22865)
+
+102. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (22885, 22887)
+
+103. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22904, 22907)
+
+104. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (22908, 22913)
+
+105. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (22914, 22916)
+
+106. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (22917, 22922)
+
+107. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'C'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (23173, 23174)
+
+108. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'e.'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (23271, 23273)
+
+109. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (23643, 23645)
+
+110. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (23729, 23732)
+
+111. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (23733, 23738)
+
+112. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'ie'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (23999, 24001)
+
+113. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (24132, 24133)
+
+114. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (24438, 24441)
+
+115. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (24442, 24448)
+
+116. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA-'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (24449, 24452)
+
+117. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (24478, 24480)
+
+118. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (24497, 24500)
+
+119. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (24501, 24506)
+
+120. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (24507, 24509)
+
+121. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (24510, 24515)
+
+122. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'th'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (25016, 25018)
+
+123. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (25181, 25183)
+
+124. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (25275, 25278)
+
+125. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (25279, 25284)
+
+126. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'G?:'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (25844, 25847)
+
+127. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (26040, 26042)
+
+128. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (26126, 26129)
+
+129. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (26130, 26135)
+
+130. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (26376, 26377)
+
+131. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'G?:'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (26772, 26775)
+
+132. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 've'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (26875, 26877)
+
+133. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (26951, 26952)
+
+134. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (26963, 26965)
+
+135. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (27050, 27053)
+
+136. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (27054, 27059)
+
+137. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (27278, 27279)
+
+138. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'S'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (27412, 27413)
+
+139. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (27414, 27415)
+
+140. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '‘a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (28145, 28147)
+
+141. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (28161, 28163)
+
+142. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (28246, 28249)
+
+143. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (28250, 28255)
+
+144. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'S'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (28330, 28331)
+
+145. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (28546, 28547)
+
+146. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '°C'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (28710, 28712)
+
+147. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '39'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (28902, 28904)
+
+148. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (29234, 29236)
+
+149. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (29318, 29321)
+
+150. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (29322, 29327)
+
+151. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (29651, 29654)
+
+152. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (29655, 29660)
+
+153. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'It'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (29802, 29804)
+
+154. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'go'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (30629, 30631)
+
+155. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Ave,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (30699, 30703)
+
+156. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (30704, 30707)
+
+157. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (30708, 30714)
+
+158. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (30715, 30717)
+
+159. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103,'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (30718, 30724)
+
+160. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (31109, 31110)
+
+161. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (31412, 31413)
+
+162. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'an'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (31518, 31520)
+
+163. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (31648, 31651)
+
+164. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (31652, 31657)
+
+165. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (32048, 32050)
+
+166. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (32515, 32518)
+
+167. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (32519, 32524)
+
+168. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (32662, 32665)
+
+169. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (32666, 32671)
+
+170. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '21'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (33306, 33308)
+
+171. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (33467, 33469)
+
+172. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'an'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (34420, 34422)
+
+173. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (34514, 34515)
+
+174. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'te'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (34586, 34588)
+
+175. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (34632, 34633)
+
+176. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'it.'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (34847, 34850)
+
+177. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '“s'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (35335, 35337)
+
+178. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (35405, 35407)
+
+179. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'D.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (35448, 35450)
+
+180. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (35938, 35940)
+
+181. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'e'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (36008, 36009)
+
+182. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a!'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (36087, 36089)
+
+183. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'su'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (36183, 36185)
+
+184. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (36419, 36421)
+
+185. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Te'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (36441, 36443)
+
+186. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (36990, 36992)
+
+187. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (37959, 37961)
+
+188. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (38421, 38423)
+
+189. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'e'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (38443, 38444)
+
+190. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '“s'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (39129, 39131)
+
+191. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (39199, 39201)
+
+192. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'D.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (39242, 39244)
+
+193. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (39754, 39756)
+
+194. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (39880, 39883)
+
+195. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (39884, 39889)
+
+196. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'It'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (40030, 40032)
+
+197. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Ave,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (40920, 40924)
+
+198. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (40925, 40928)
+
+199. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego.'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (40929, 40935)
+
+200. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (40936, 40938)
+
+201. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103,'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (40939, 40945)
+
+202. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'an'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (41729, 41731)
+
+203. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (41858, 41861)
+
+204. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (41862, 41867)
+
+205. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (42365, 42367)
+
+206. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (42714, 42715)
+
+207. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (42738, 42739)
+
+208. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E|'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (42754, 42756)
+
+209. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (42819, 42821)
+
+210. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (43226, 43228)
+
+211. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'su'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (43524, 43526)
+
+212. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (43657, 43658)
+
+213. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (43740, 43741)
+
+214. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (43940, 43942)
+
+215. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San.'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (44348, 44352)
+
+216. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44353, 44354)
+
+217. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (44451, 44453)
+
+218. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44601, 44603)
+
+219. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44644, 44646)
+
+220. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44851, 44853)
+
+221. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44865, 44866)
+
+222. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (44959, 44960)
+
+223. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'en'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45424, 45426)
+
+224. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45438, 45439)
+
+225. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45480, 45481)
+
+226. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45567, 45568)
+
+227. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'su'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45569, 45571)
+
+228. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '°C)'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (45667, 45670)
+
+229. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45682, 45683)
+
+230. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'su'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45701, 45703)
+
+231. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'o'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (45794, 45795)
+
+232. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (46402, 46404)
+
+233. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'i'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (46803, 46804)
+
+234. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'an'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47196, 47198)
+
+235. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47264, 47265)
+
+236. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'u'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47435, 47436)
+
+237. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47540, 47541)
+
+238. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'it'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47553, 47555)
+
+239. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47567, 47568)
+
+240. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'it.'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47625, 47628)
+
+241. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '31'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (47936, 47938)
+
+242. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (48169, 48171)
+
+243. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'E'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (48555, 48556)
+
+244. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (48578, 48580)
+
+245. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (49384, 49386)
+
+246. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (50114, 50116)
+
+247. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '3'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (50367, 50368)
+
+248. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (50729, 50730)
+
+249. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'it'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (50742, 50744)
+
+250. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (50756, 50757)
+
+251. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '“s'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (51330, 51332)
+
+252. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (51400, 51402)
+
+253. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'D.'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (51443, 51445)
+
+254. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (51959, 51961)
+
+255. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (52095, 52098)
+
+256. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (52099, 52104)
+
+257. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'It'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (52245, 52247)
+
+258. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Ave,'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (53135, 53139)
+
+259. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (53140, 53143)
+
+260. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego.'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (53144, 53150)
+
+261. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (53151, 53153)
+
+262. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '92103,'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (53154, 53160)
+
+263. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'an'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (53944, 53946)
+
+264. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'San'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (54073, 54076)
+
+265. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'Diego'
+   Replaced With: '123 Dummy Street, Dummy City'
+   Similarity: 100.0%
+   Position: (54077, 54082)
+
+266. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (54586, 54588)
+
+267. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (54781, 54782)
+
+268. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'a'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (55295, 55296)
+
+269. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (56303, 56305)
+
+270. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 's'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (57566, 57567)
+
+271. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: '“s'
+   Replaced With: '123 dummy street, dummy city'
+   Similarity: 100.0%
+   Position: (57603, 57605)
+
+272. Original Value: '3975 5th Avenue, Suite 100 San Diego, CA 92103-3108'
+   Matched Text: 'CA'
+   Replaced With: '123 DUMMY STREET, DUMMY CITY'
+   Similarity: 100.0%
+   Position: (57680, 57682)
+
+273. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'OS'
+   Replaced With: '[REDACTED-ADDRESS-5]'
+   Similarity: 100.0%
+   Position: (364, 366)
+
+274. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (799, 801)
+
+275. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (811, 813)
+
+276. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (873, 875)
+
+277. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'OS'
+   Replaced With: '[REDACTED-ADDRESS-5]'
+   Similarity: 100.0%
+   Position: (2351, 2353)
+
+278. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (4038, 4040)
+
+279. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'AS'
+   Replaced With: '[REDACTED-ADDRESS-5]'
+   Similarity: 100.0%
+   Position: (5543, 5545)
+
+280. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (5721, 5723)
+
+281. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (5840, 5842)
+
+282. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (5981, 5983)
+
+283. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (5993, 5995)
+
+284. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (6498, 6500)
+
+285. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '28;'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (11755, 11758)
+
+286. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '28'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (12364, 12366)
+
+287. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '28;'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (15091, 15094)
+
+288. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (17946, 17948)
+
+289. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (18313, 18315)
+
+290. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (18563, 18565)
+
+291. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (19846, 19848)
+
+292. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (21284, 21286)
+
+293. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (23539, 23541)
+
+294. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (23835, 23837)
+
+295. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (23847, 23849)
+
+296. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (24241, 24243)
+
+297. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (24253, 24255)
+
+298. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'B'
+   Replaced With: '[REDACTED-ADDRESS-5]'
+   Similarity: 100.0%
+   Position: (24516, 24517)
+
+299. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '28'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (25852, 25854)
+
+300. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (29940, 29942)
+
+301. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (29948, 29950)
+
+302. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (30420, 30422)
+
+303. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (30458, 30460)
+
+304. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (30566, 30568)
+
+305. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (30852, 30854)
+
+306. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (31582, 31584)
+
+307. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (33142, 33144)
+
+308. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as:'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (34247, 34250)
+
+309. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'AS'
+   Replaced With: '[REDACTED-ADDRESS-5]'
+   Similarity: 100.0%
+   Position: (35869, 35871)
+
+310. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (37423, 37425)
+
+311. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (38097, 38099)
+
+312. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (38280, 38282)
+
+313. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (38292, 38294)
+
+314. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (38545, 38547)
+
+315. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (40167, 40169)
+
+316. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (40175, 40177)
+
+317. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (40643, 40645)
+
+318. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (40680, 40682)
+
+319. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (41072, 41074)
+
+320. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (41792, 41794)
+
+321. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '28'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (42131, 42133)
+
+322. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (42521, 42523)
+
+323. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'Se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (43486, 43488)
+
+324. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (43567, 43569)
+
+325. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (43713, 43715)
+
+326. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'se'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (45783, 45785)
+
+327. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as:'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (47024, 47027)
+
+328. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (49534, 49536)
+
+329. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (49749, 49751)
+
+330. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (50375, 50377)
+
+331. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (50475, 50477)
+
+332. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: '12'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (51007, 51009)
+
+333. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (52382, 52384)
+
+334. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (52390, 52392)
+
+335. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (52858, 52860)
+
+336. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (52895, 52897)
+
+337. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (53287, 53289)
+
+338. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (54007, 54009)
+
+339. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (55199, 55201)
+
+340. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (55271, 55273)
+
+341. Original Value: '751 S BASCOM AVE, SAN JOSE, CA 95128'
+   Matched Text: 'as'
+   Replaced With: '[redacted-address-5]'
+   Similarity: 100.0%
+   Position: (56963, 56965)
+
+342. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'all'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (2555, 2558)
+
+343. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'all'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (2614, 2617)
+
+344. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (3297, 3298)
+
+345. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (3442, 3444)
+
+346. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (3537, 3539)
+
+347. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Medical'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (3551, 3558)
+
+348. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'me.'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (4049, 4052)
+
+349. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'L'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (7322, 7323)
+
+350. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (7914, 7915)
+
+351. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (8057, 8059)
+
+352. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'EDI'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (9852, 9855)
+
+353. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Medical'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (11341, 11348)
+
+354. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'L'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (11721, 11722)
+
+355. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (12723, 12725)
+
+356. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (14776, 14778)
+
+357. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'L'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (15058, 15059)
+
+358. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (16977, 16979)
+
+359. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'All'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (17037, 17040)
+
+360. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (17124, 17126)
+
+361. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: '(le'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (21211, 21214)
+
+362. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y:'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (22262, 22264)
+
+363. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (25424, 25426)
+
+364. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: '(all'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (28519, 28523)
+
+365. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (29290, 29292)
+
+366. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Center,'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (30682, 30689)
+
+367. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED,'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (31316, 31319)
+
+368. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ce'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (32838, 32840)
+
+369. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (33675, 33677)
+
+370. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'medical'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (33874, 33881)
+
+371. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'me'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (33905, 33907)
+
+372. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'me'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (34686, 34688)
+
+373. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ey'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (35297, 35299)
+
+374. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Le'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (36446, 36448)
+
+375. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (38539, 38540)
+
+376. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ey'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (39091, 39093)
+
+377. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Center,'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (40903, 40910)
+
+378. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED,'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (41530, 41533)
+
+379. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'la'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (42487, 42489)
+
+380. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'la'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (42716, 42718)
+
+381. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (42736, 42737)
+
+382. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (42837, 42838)
+
+383. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (43244, 43245)
+
+384. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (43379, 43380)
+
+385. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ce'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (43817, 43819)
+
+386. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ta'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (43865, 43867)
+
+387. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (44997, 44998)
+
+388. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'la'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (45170, 45172)
+
+389. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'al'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (45264, 45266)
+
+390. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'la'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (45372, 45374)
+
+391. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'al'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (45530, 45532)
+
+392. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'le'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (45690, 45692)
+
+393. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'medical'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (46650, 46657)
+
+394. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'me'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (46681, 46683)
+
+395. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'me'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (47459, 47461)
+
+396. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'enter'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (50649, 50654)
+
+397. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ey'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (51292, 51294)
+
+398. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'y'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (51877, 51878)
+
+399. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'Center,'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (53118, 53125)
+
+400. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'ED,'
+   Replaced With: '[REDACTED-ADDRESS-6]'
+   Similarity: 100.0%
+   Position: (53745, 53748)
+
+401. Original Value: 'santa clara valley medical center, 751 s bascom ave, san jose, ca 95128'
+   Matched Text: 'medical'
+   Replaced With: '[redacted-address-6]'
+   Similarity: 100.0%
+   Position: (54783, 54790)
+
+402. Original Value: 'PO Box 235498'
+   Matched Text: 'Lelia M
+NS
+s
+wa
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (288, 317)
+
+403. Original Value: 'PO Box 235498'
+   Matched Text: '5 %'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (728, 731)
+
+404. Original Value: 'PO Box 235498'
+   Matched Text: '2
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (2053, 2115)
+
+405. Original Value: 'PO Box 235498'
+   Matched Text: 'Lelia M
+NS
+s
+wa
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (2275, 2304)
+
+406. Original Value: 'PO Box 235498'
+   Matched Text: '23
+
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (3036, 3100)
+
+407. Original Value: 'PO Box 235498'
+   Matched Text: '3
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (3106, 3168)
+
+408. Original Value: 'PO Box 235498'
+   Matched Text: 'of
+y
+“s
+ees
+:
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (3294, 3321)
+
+409. Original Value: 'PO Box 235498'
+   Matched Text: '%
+Wwa
+—>
+SCRIPPS HEALTH
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (5448, 5485)
+
+410. Original Value: 'PO Box 235498'
+   Matched Text: '5
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (6257, 6319)
+
+411. Original Value: 'PO Box 235498'
+   Matched Text: 'Lelia M
+s
+Ns
+R
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (6424, 6452)
+
+412. Original Value: 'PO Box 235498'
+   Matched Text: '=
+x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (6492, 6495)
+
+413. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (6607, 6608)
+
+414. Original Value: 'PO Box 235498'
+   Matched Text: 'y
+;
+.
+.
+PAA
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (7914, 7939)
+
+415. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (8317, 8318)
+
+416. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (9634, 9680)
+
+417. Original Value: 'PO Box 235498'
+   Matched Text: '35'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (11072, 11074)
+
+418. Original Value: 'PO Box 235498'
+   Matched Text: '35'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (11147, 11149)
+
+419. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (12570, 12616)
+
+420. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (14623, 14669)
+
+421. Original Value: 'PO Box 235498'
+   Matched Text: 'Scripps Health
+>
+SCRIPPS HEALTH
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (16681, 16726)
+
+422. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (18319, 18365)
+
+423. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (19402, 19403)
+
+424. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (19983, 20029)
+
+425. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (20544, 20545)
+
+426. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (21830, 21876)
+
+427. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (22103, 22104)
+
+428. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (23021, 23022)
+
+429. Original Value: 'PO Box 235498'
+   Matched Text: '5 %'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (23053, 23056)
+
+430. Original Value: 'PO Box 235498'
+   Matched Text: 'HEALTH
+Martinez, Lelia M
+:
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (23550, 23590)
+
+431. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (24614, 24615)
+
+432. Original Value: 'PO Box 235498'
+   Matched Text: '‘Ys
+Sor
+eS
+Oy
+WAS
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (25085, 25116)
+
+433. Original Value: 'PO Box 235498'
+   Matched Text: 'LeliaM
++
+ws Sor &nTPNK
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (25937, 25973)
+
+434. Original Value: 'PO Box 235498'
+   Matched Text: 'x
+ve Scr
+~~
+<
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (26873, 26900)
+
+435. Original Value: 'PO Box 235498'
+   Matched Text: '3
+}'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (27373, 27376)
+
+436. Original Value: 'PO Box 235498'
+   Matched Text: 'x
+‘Ys
+Scr
+eS
+Ss
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (28067, 28096)
+
+437. Original Value: 'PO Box 235498'
+   Matched Text: '98 %'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (28750, 28754)
+
+438. Original Value: 'PO Box 235498'
+   Matched Text: 'Lelia M
+FNS
+ery
+:
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (29142, 29173)
+
+439. Original Value: 'PO Box 235498'
+   Matched Text: '.
+SS
+.
+‘
+:
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (31961, 31985)
+
+440. Original Value: 'PO Box 235498'
+   Matched Text: 'P'
+   Replaced With: '[REDACTED-ADDRESS-7]'
+   Similarity: 100.0%
+   Position: (32554, 32555)
+
+441. Original Value: 'PO Box 235498'
+   Matched Text: 'p'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (33407, 33408)
+
+442. Original Value: 'PO Box 235498'
+   Matched Text: 'henge
+Health
+>
+SCRIPPS HEALTH
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (33413, 33456)
+
+443. Original Value: 'PO Box 235498'
+   Matched Text: 'Martinez, Lelia M
+.
+“s
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (35315, 35351)
+
+444. Original Value: 'PO Box 235498'
+   Matched Text: '23
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (35699, 35762)
+
+445. Original Value: 'PO Box 235498'
+   Matched Text: 'HEALTH
+Martinez, Lelia M
+AS
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (35844, 35885)
+
+446. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (36894, 36940)
+
+447. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (37863, 37909)
+
+448. Original Value: 'PO Box 235498'
+   Matched Text: 'Martinez, Lelia M
+.
+“s
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (39109, 39145)
+
+449. Original Value: 'PO Box 235498'
+   Matched Text: 'NS . Cy
+N
+QR
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (39678, 39704)
+
+450. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (42269, 42315)
+
+451. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (44355, 44401)
+
+452. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (46306, 46352)
+
+453. Original Value: 'PO Box 235498'
+   Matched Text: 'p'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (46456, 46457)
+
+454. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (48073, 48119)
+
+455. Original Value: 'PO Box 235498'
+   Matched Text: 'x'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (48321, 48322)
+
+456. Original Value: 'PO Box 235498'
+   Matched Text: '!
+ibuprofen (MOTRIN)
+SCRIPPS HEALTH
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (49324, 49373)
+
+457. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (50018, 50064)
+
+458. Original Value: 'PO Box 235498'
+   Matched Text: '5 %'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (50401, 50404)
+
+459. Original Value: 'PO Box 235498'
+   Matched Text: 'Martinez, Lelia M
+.
+“s
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (51310, 51346)
+
+460. Original Value: 'PO Box 235498'
+   Matched Text: '35
+============================================================'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (51696, 51759)
+
+461. Original Value: 'PO Box 235498'
+   Matched Text: 'M
+y
+NS
+Cy x
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (51875, 51900)
+
+462. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (54490, 54536)
+
+463. Original Value: 'PO Box 235498'
+   Matched Text: 'SCRIPPS HEALTH
+Martinez, Lelia M
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (56207, 56253)
+
+464. Original Value: 'PO Box 235498'
+   Matched Text: 'p'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (56357, 56358)
+
+465. Original Value: 'PO Box 235498'
+   Matched Text: 'Lelia M
+.
+“s
+Sey
+PO Box 235498'
+   Replaced With: '[redacted-address-7]'
+   Similarity: 100.0%
+   Position: (57593, 57623)
 

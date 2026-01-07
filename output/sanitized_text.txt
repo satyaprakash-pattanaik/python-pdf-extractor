@@ -1,686 +1,2362 @@
 
 ============================================================
-PAGE 1
-============================================================
+PAGE 01-01-1900========
 
-09/04/2024 6:49:17
-AM
-—-0600
-FAXCOM
-Patient Alex Brown
-Complete ePCR w/attachments
-PAGE 6
-OF
-EMS Agency Name:
-Big Bear Fire Department
-41080 Big Bear Blvd,
-Big Bear Lake, CA 92315
-LiouUae
-Alex Brown
-Age:
-Address:
-123 dummy street, dummy city CA 92333
-Weight:
-Fi
-Alternate Home
-Is Patient
-No
-Residence:
-Hometess?:
-SSN#:
-Patient's 9000000001
-Patient Notes:
-87 01-01-1900
-Male
-Race:
-White
-000-01-0002
-Type
-Mobile
-erro esc
-ee
-cn
-Call Type:
-Resp.Mode:
-Response:
-Response Delay:
-Location:
-Incident Address:
-Unit Disposition:
-Reason for
-Refusal/Release:
-Traffic/Transportation incident
-Emergent (Immediate Response}
-Emergency Response (Primary Response Area}
-None/No Delay
-Street and Highway
-O EB HWY 38 MM 54
-Fawnskin, CA 92314
-Patient Contact
-Patient
-Patient Evaluated
-Made
-Evaluation/Care:
-and Care Provided
-Level ofCare
-ALS - Paramedic
-Provided per
-Protocol:
-Primary Role of the
-Unit:
-Transporting
-Agency:
-Transport Mode:
-Destination:
-Air Ambulance
-provider care
-transferred to:
-Dest. Determ.:
-Crew Disposition:
-Transport Delay:
-ALS Ground Transport
-Big Bear Fire Authority (36042)
-Non-Emergent,
-Bear Valley Community Heaithcare District
-41870 Garstin Dr.
-P.O. Box 1649
-Big Bear Lake, CA 92315
-LZ Location - Other:
-On-Line/On-Scene Medical Direction
-Initiated and
-Transport
-Transport by This EMS
-Continued Primary
-Disposition:
-Unit (This Crew Only)
-Care
-None/No Delay
-GOS
-a eaocc
-PSAP:
-Disp. Notified:
-Unit Disp:
-Enroute:
-At Scene:
-At Patient:
-Depart:
-Arrive Dest
-Destination PT
-Transfer of Care:
-In Service:
-Receiving Hospital
-Contacted
-Date/Time:
-Base Hospital
-Contacted:
-06/30/2024 16:50:29
-06/30/2024 16:50:29
-06/30/2024 16:58:25
-06/30/2024 16:58:25
-06/30/2024 17:05:59
-06/30/2024 17:07:05
-06/30/2024 17:22:40
-06/30/2024 17:33:42
-06/30/2024 17:39:04
-06/30/2024 17:44:55
-Lome Linda University
-Medical Center
-Contact Date:
-Base Hospital
-06/30/2024 17:18:52
-incident Number:
-Call Sign:
-Veh. #:
-Scene Odom:
-Dest. Odom:
-EMS 24-159096
-MA282A
-MA282A
-To Dest:
-3.7
-we
-ny
-Ground-Ambulance
-ss
-Crew Member
-Level of Certification
-Role
-Ward, Zachary
-Diaz, Cesar
-EMT-Basic
-Paramedic
-Driver/Pilot-Response
-;
-Driver/Pilot-Transport
-Primary Patient Caregiver-At Scene ; Primary Patient Caregiver-Transport
-Other Agencies On Scone
-Other EMS or Public Safety Agencies at Scene
-Unit Notified:
-24-159096
-OtherAgencies On Scene
-06/30/2024 16:58:25
-Other EMS or Public Safety Agency ID Number
-Patient Alex Brown
-Patient Care Report 00000000000000000000000000000000
-Type of Other Service at Scene
-24-159096
-Date Printed:
-68/27/2024
-13:48
+85/24/24
+87:46:48
+Scripps Health
+>
+VFD214M6N214 Scripps Health
 Page
-1 of 5
+HAZ
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+oy
+ek
+SCRIPPS HEALTH
+Martinez, [redacted-address-7] dummy street, dummy city
+wa
+PO Box 235498
+01-01-1900/1948, Sex: F
+Wwe
+KR
+[REDACTED-ADDRESS-5]
+Notes - LMR (continued)
+*
+Degeneration of lumbar
+11/14/2023
+intervertebral disc
+*
+Diverticular disease
+11/14/2023
+* Gastroesophageal reflux disease
+11/14/2023
+without esophagitis
+No past surgical history on file.
+Medications:
+* acetaminophen (TYLENOL)
+[REDACTED-MRN-1] ma,oral. Every 000000MRN hours [REDACTED-MRN-1]
++ ibuprofen (MOTRIN)
+[REDACTED-MRN-1] mg, oral, Every 000000MRN hours [REDACTED-MRN-1]
++ lidocaine (LIDODERM) [redacted-address-7]000MRN % patch
+000000MRN patch, transdermal, Daily, Remove and discard
+patch within [redacted-address-5] hours or [redacted-address-5] directed by MD.
+No outpatient medications have been marked [redacted-address-5] taking for the 3/1/24 encounter
+(Hospital Encounter).
+Allergies:
+. Lisinopril
+Other (see comments)
+Other Reaction(s): Dry cough
+Social History:
+Lelia [REDACTED-MRN-1] Martinez
+Exam:
+Patient Vitals for the past 24 hrs:
+143/67
+163/49
+37.2°C (99
+°F)
+Physical Examination:
+Vital signs are reviewed and are notable for hypertension consistent with her history but otherwise normal.
+This is 123 dummy street, dummy city well-developed, well-nourished patient who is awake, alert, and in no apparent distress.
+She was
+given 123 dummy street, dummy city c-collar at triage.
+HEENT: Normocephalic, atraumatic. Oropharynx is benign with moist mucous membranes.
+No evidence of
+any facial trauma.
+Cervical and thoracic spine are somewhat tender to palpation, along with the paraspinous muscles.
+Lumbar
+spine is nontender.
+No visible signs of trauma on the back.
+Lungs: Breathing is unlabored; no accessory muscle use. Lungs are clear.
+Heart: regular rate and rhythm.
+Chest wall is stable and nontender except for some mild tenderness in the
+right axillary region without visible trauma.
+Abdomen soft, nondistended, nontender. No seatbelt sign.
+Generated by 127511 at 5/17/24 10:54 AM
+Page 22
 
 ============================================================
-PAGE 2
-============================================================
+PAGE [redacted-address-7]========
 
-09/04/2024 6:49:17
-AM
-—0600
-FAXCOM
-Patient Alex Brown
-San Bernardino County Fire Department
-$62-50824
-PAGE
-7
-OF
-EMS Agency Name:
-Big Bear
-Fire Department
-Fire
-Primary impression: Traumatic injury
-eas
-ie
-Secondary
-impression:
-Traumatic injury
-Complaint Type
-Chief (Primary)
-Date/Time of
-06/30/2024 16:57:05
-Symptom Onset:
-Primary Symptom:
-Pain, Extremity
-Alcohol/Drug Use:
-Chief Complaint
-‘Organ System:
-None Reported
-Musculoskeletal/Skin
-Mechanism of Injury:
-Blunt
-Cause of injury:
-Motor Vehicle Colfisian/Crash - Traffic
-Patient Condition
-Complaint
-Right hip pain
-Possible Injury:
-Other Symptoms:
-Barriers to Patient
-Care:
-Chief Complaint
-Anatomic Location:
-initial Patient
-Acuity:
-Final Patient Acuity:
-Duration
-40 Minutes
-Yes
-Pain, Extremity
-None Noted
-Extremity-Lower
-Lower Acuity (Green)
-Lower Acuity
-(Green)
-sess
-Narrative:
-Big bear medic ambulance 282A responded to a motor vehicle accident on highway 38with medic engine $6 on scene prior to our arrival. Initial patient care and
-assessment performed by medic engine 96. Patient states hewas traveling approximately 35 miles per hour, when the vehicle in front of him went to make a left
-turn. The patient also states that he was unable to avoid the vehicle and collided. The patient's vehicle came into contact with the other vehicle on the front
-driver side. Patient's vehicle had moderate damage to the front end with airbag deployment. Patient has full recall of the event. No blood thinning medications
-reported, Patient isalert and oriented times four with a GCS of 15. Breathing full and effective with clear lung sounds bilaterally. Moves all extremities
-appropriately with PMSC intact throughout. Patient has 6/10 pain to theright hip pain patpitation or movement. Nocrepitus or deformity noted upon palpation.
-Patient has a skin tear to the right hand with bleeding controlled with Kerlex bandage. No other outward signs of trauma noted
-insecondary assessment.
-Patient denies any head, neck, or back pain. Patient aise denies any headache, nausea, shortness of breath, or chest pain. Loma Linda base was contacted on
-scene due to the patients age and mechanism. Loma Linda base instructed us to go te Bearvalley community hospital. Patient was a carried to gurney and loaded
-into the ambulance. Transported code 2 to BVCH with nochange in status. Patient care was transferred to registered nurse upon arrival,
-Past Medical Histo!
-Medication
-None Reported
-‘Other medications
-not listed:
-Medication Allergies
-Patient Medications
-Medication Allergies
-No Known Drug Alleray
-Medical History:
-EENT - Glaucoma; Hypertension
-Medical History
-Patient
-Obtained From:
-Date/Time of
-17:09:05
-17:24:05
-06/30/2024 17:09:05
-Detailed Findings
-Location
-Description
-Details
-Mental Status
-Oriented-Event
-Oriented-Person
-Oriented-Place
-Oriented-Time
-Eye
-Bilateral:
-3-mm
-PERRL
-Back/Spine
-Lung
-Bilateral:
-Breath Sounds-Equal
-Breath Sounds-Normal
-Unit Notified:
-06/30/2024 24-159096
-Patient Alex Brown
-Patient Care Report 00000000000000000000000000000000
-24-159096
-Date Printed:
-68/27/2024
-13:48
-Page 2 of 5
+45/240/24
+87:47:15
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+HH3
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+oy
+ek
+SCRIPPS HEALTH
+Martinez, [redacted-address-7] dummy street, dummy city
+wa
+PO Box 235498
+01-01-1900/1948, Sex: F
+Wwe
+KR
+[REDACTED-ADDRESS-5]
+Notes - LMR (continued)
+Extremities have no cyanosis. No signs of trauma, good range of motion everywhere.
+Pelvis is stable and
+nontender.
+Neurologic exam reveals symmetrical cranial nerves and moving [redacted-address-6] extremities well.
+Normal motor and
+sensory findings in [redacted-address-6] 01-01-1900 extremities.
+Labs:
+Labs Reviewed
+- No data to display
+IMPRESSION:
+No acute fracture or malalignment
+release
+IMPRE
+SION:
+No acute fracture or malalignment
+release
+IMPRESSION:
+No acute pulmonary disease
+release
+03/01/2024
+acetaminophen (TYLENOL)
+[REDACTED-MRN-1]
+oral”
+0841 PST
+tablet [REDACTED-MRN-1] mg
+mg
+03/01/2024
+ibuprofen (MOTRIN) tablet [REDACTED-MRN-1]
+[REDACTED-MRN-1]
+oral
+1045 PST
+mg
+mg
+Mascari, K
+Mascari, K
+Generated by 127511 at 5/17/24 10:54 AM
+Page [redacted-address-7]
+PAGE [redacted-address-7]========
 
-============================================================
-PAGE 3
-============================================================
-
-09/04/2024 6:49:17
-AM
-—0600
-FAXCOM
-Patient Name:
-Segle Alex Brown
-Normal Findings
-PAGE
-&
-OF
-10
-EMS Agency Name:
-Big Bear
-Fire Department
-Skin;
-Head;
-Neck;
-Back/Spine ( Back-General);
-Not Done
-(onealcdeuli
-06/30/2024 17:24:05
-Detailed Findings
-Location
-Description
-Details
-MentalStatus
-Oriented-Event
-Oriented-Person
-Oriented-Place
-Oriented-Time
-Eye
-Bilateral:
-3-mim
-PERRL
-Back/Spine
-Lung
-Bilaterat:
-Breath Sounds-Equal
-Breath Sounds-Normal
-Normal Findings
-Skin;
-Head;
-Neck;
-Back/Spine {Back-General };
-Not Done
-Uae
-Procedures
-Procedure Performed Prior to this Units
-Size of
-Procedure
-EMS Care
-Time
-Crew
-Name
-Location
-Equipment
-Attempts
-Response
-Success
-Comments
-No.
-17:08:05
-Diaz,
-Venous Access -Extremity
-Forearm-
-18
-1
-Yes
-Cesar
-Catheterization
-Left
-Vitals
-Response
-tethod oF
-Blood Pressure
-Patient
-ira Pulse
-Method Heat
-Pulse
-Pulse
-Cardiac Rhythm /Electrocardiography MethodoFECG
-Resp Resp
-Fine
-PTA
-(AVPU}
-BP
-Measurement
-ByPressure _ Pasition
-Rate
-Quality
-Raythm
-(ECG)
-i
-Rate
-Reg
-Effort S902 Qual
-COZ
-170895No
-Alert
-is0/
-Coffautomated
-cate
-Sitting
-a
-Regular
-Sinus Riythen
-Manual interpretation
-18
-Normas4
-AERO
-31
-Automated
-i
-ic
-17249580
-Alert
-162]
-CuffAutomated
-ctf
-sitting
-o
-Regular
-Sinus Rhythm
-Manual interpretation
-18
-Norma3sAtRoom
-93
-Aatomated
-‘
-Rie
-Vitals
-Date/Time
-Mean Arterial Pressure
-Te
-Methed
-Pain Scale Score
-Pain Scale Type
-Blood Glucose Level
-47:09:05
-114
-6
-Numeric (0-10)
-17:24:05
-116
-6
-Numeric (0-10)
-POQRST
-Date/Time Vital Signs Taken
-Provoked
-Quality
-Region
-Pain Scale Score
-Duration
-Duration Units
-POQRST Narrative
-17:09:05
-Paipation
-Dull
-Leg
-6
-10
-Minutes
-47:24:05
-Paipation
-Bull
-Leg
-6
-10
-Minutes
-ECG
-Date/Time Vital Signs Taken
-Cardiac Rhythm / Electrocardiography (ECG)
-ECG Type
-Method of ECG interpretation
-17:09:05
-Sinus Rhythm
-4tead
-Manual interpretation
-17:24:05
-Sinus Rhythm
-4Lead
-Manual interpretation
-Unit Notified:
-06/30/2024 24-159096
-ces
-Patient Alex Brown
-Patient Care Report 00000000000000000000000000000000
-24-159096
-Date Printed:
-68/27/2024
-13:48
-Page 3 of 5
-
-============================================================
-PAGE 4
-============================================================
-
-09/04/2024 6:49:17
-AM
-—0600
-FAXCOM
-PAGE 3
-OF
-10
-Patient Alex Brown
-EMS Agency Name:
-Big Bear
-Fire Department
-Total
-Glasgow
-Time
-ComaScore
-fye
-Motor
-Verbal
-Score Qualifier
-17:09:05
-15
-4- Opens Eyes
-6- Obeys commands (>2Years};
-5 - Oriented (>2 Years); Smiles, oriented _ initial GCS has legitimate values without
-spontanecusly (AlAge |
-Appropriate response to
-to sounds, Foliows objects, interacts
-interventions such as intubation and sedation
-Groups}
-stimulation
-47:24:05
-18
-4- Opens Eyes
-6 - Obeys commands {>2Years);
-§- Oriented (>2 Years); Smiles, oriented
-initial GCS has legitimate values without
-spontaneously (AllAge
+85/240/24
+87:47:47?
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+HH4
+&-.
+oN
+SCRIPPS HEALTH
+Martinez, Lelia [REDACTED-MRN-1]
+KS
 |
-Appropriate response to
-to sounds, Follows objects, interacts
-interventions such as intubation and sedation
-Groups}
-stimulation
-Suan
-Cardiac Arrest:
-No
-Therapeutic
-No
-Hypothermia
-Initiated:
-OtherAgencies On Scene
-OtherAgencies On Scene
-OtherAgencies On Scene
-Croatoa:
-Base Hospital
-06/30/2024 17:18:52
-Contact Date:
-Base Hospital
-Loma Linda University Medical Center
-Contacted:
-UOTE
-Cause of injury:
-Motor Vehicle Colfisian/Crash - Traffic
-Mechanism of Injury:
-Blunt
-Trauma Center
-Not Applicable
-Criteria:
-Vehicular, NotApplicable
-Pedestrian, or Other
-Injury Risk Factor:
-Location of Patient
-Front Seat-Left Side (or motorcycle driver)
-in Vehicle:
-UseofOccupant
-Shoulder and Lap Belt Used
-Safety Equipment:
-Main Area of the 1
-Vehicle impacted by
-theCollision:
-Airbag Deployment:
-Airbag Deployed Front
-Work-Related
-No
-ilness/injury:
-DUS
-Payment:
-insurance
-WorkRelated?: No
-ET3 Alternative
-Alternative Disposition Not Offered
-Disposition Offer
-and Result:
-Reason for
-tere
-Transfer/Medical
-Transport:
-Sass
-Type of Person Signing: Patient
-3:HIPAA acknowl
-{Release;
-ission
-to Transport; Permission to Treat; Release for Billing
-Paragraph Text:
-Our Notice of Privacy Practices provides information about how we may use and disclose protected heaith information about you. You have the right to review ournotice before signing
-this consent. As provided in our notice, theterms ofour notice may change. Ifwechange our notice, you may obtain a revised copy. You have the right to request that werestrict how
-protected health information about yau is used or disclosed for treatment, payment or health care operations. We are notrequired to agree to this restriction, butif wedo, weare
-bound by ouragreement. Bysigning this form, you consent to our use and disclosure of protected health information about you for treatment, payment or health care operations. You
-have the right to revoke this consent, inwriting, except where we have already made disclosures in reliance on your prior consent.
-tauthorize the release to the Social Security Administration and Centers for Medicare and Medicaid Services, any HMO/PPO, other private or public insurance, or their agents, Fiscal
-intermediaries or carriers or anindependent agency performing billing or collection functions on behalf of the ambulance service, any personal, medical
-or billing information needed for
-this or a related claim. |understand {will be responsible for any services that are notpaid/covered by my insurance. A copy of this authorization shall be valid as the original and shall
-remain in effect until revoked in writing by thepatient/insured. |request payment ofmedical insurance benefits either to me or to theambulance service.
-Unit Notified:
-06/30/2024 16:58:25
-Patient Name:
-Begie Alex Brown
-24-159096
-24-159096
-Patient Care Report 00000000000000000000000000000000
-Date Printed:
-68/27/2024
-13:48
-Page 4 of 5
+aang [redacted-address-7] dummy street, dummy city
+ees
+:
+PO Box 235498
+01-01-1900/1948, Sex: F
+we
+OSS
+01-01-1900 ee
+123 dummy street, dummy city
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - [REDACTED-ADDRESS-6] inScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Notes - LMR (continued)
+[REDACTED-ADDRESS-6] Course and [redacted-address-6] Decision Making:
+| considered 123 dummy street, dummy city differential diagnosis of cervical spine strain or fracture, thoracic spine strain or fracture,
+concern for rib fracture or chest wall contusion or pulmonary contusion. Patient otherwise looks well, denies
+any significant head trauma, denies being on blood thinners, and | do not feel she needs cranial imaging.
+We will do 123 dummy street, dummy city CT scan of her T-spine and C-spine and chest x-ray.
+She is medicated with Tylenol.
+Bedside
+E-FAST ultrasound was negative [redacted-address-5] done by [redacted-address-6]
+Clinical complexity is moderate.
+Work-up results:
+| independently reviewed the results of each diagnostic test, which showed: Negative chest x-ray, and no
+evidence of fracture or misalignment on CT of the cervical and thoracic spines, though she does have
+degenerative changes.
+| independently reviewed the images interpreted (or being interpreted) by Radiology and formed my own
+impression.
+Observation Care:
+Patient was entered into observation care.
+Evaluation began at 01-01-1900 AM in the emergency department.
+Serial examinations and reassessments were performed on this patient to determine if they would
+improve versus require further intervention, testing, or admission.
+123 Dummy Street, Dummy City is currently 10:30 AM, and the patient is improved after Tylenol and ibuprofen and 123 DUMMY STREET, DUMMY CITY will plan to
+discharge her home with prescriptions for Tylenol, ibuprofen, lidocaine patches.
+Clinical Impression:
+000000MRN
+Cervical strain, acute, initial encounter
+000000MRN
+Thoracic myofascial strain, initial encounter
+000000MRN
+Motor vehicle accident (victim), initial encounter
+Disposition:
+Discharge
+Snook, Brian Patrick, DO
+2400 123 DUMMY STREET, DUMMY CITY 8TH ST
+National City 123 DUMMY STREET, DUMMY CITY 91950
+619-662-4100
+In 000000MRN days
+Your medication list
+Generated by 127511 at 5/17/24 10:54 AM
+Page 24
 
 ============================================================
-PAGE 5
+PAGE 01-01-1900
+
+45/28/24
+87:48:16
+Scripps Health
+“
+%
+oy
+123 DUMMY STREET, DUMMY CITY
+123 DUMMY STREET, DUMMY CITY
+Sehating
+Xs
+NS
+Agog
+[redacted-address-7]
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+VFD214M6N214 Scripps Health
+Page [REDACTED-ADDRESS-5]
+Martinez, Lelia [REDACTED-MRN-1]
+01-01-1900/1948, Sex:
+F
+Adm: 3/1/2024, D/C: 3/1/2024
+acetaminophen [REDACTED-MRN-1] mg tablet
+Take 000000MRN tablets
+[REDACTED-MRN-1] mg total)
+by mouth every
+000000MRN (six) hours [redacted-address-5]
+needed for mild
+pain (level 1-3).
+ibuprofen [REDACTED-MRN-1] mg tablet
+Take 000000MRN tablet
+[REDACTED-MRN-1] mg total)
+by mouth every
+000000MRN (six) hours [redacted-address-5]
+needed (pain or
+fever).
+lidocaine5 % patch
+Where to Get Your Medications
+Place 000000MRN patch
+on the skin
+daily. Remove
+and discard
+patch within [redacted-address-5]
+hours or [redacted-address-5]
+directed by MD.
+619-291-7170
+etaminophen [REDACTED-MRN-1] mg tablet
+¢
+ibuprofen [REDACTED-MRN-1] mg tablet
+*
+lidocaine 000000MRN patch
+Norton, Valerie Constance, MD
+03/01/24 1040
+Generated by 127511 at 5/17/24 10:54 AM
+Page 25
+
+============================================================
+PAGE [redacted-address-7]========
+
+45/24/24
+87:48:43
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+HH6
+oy
+es
+SCRIPPS HEALTH
+Martinez, [redacted-address-7]ummy street, dummy city
+Ns
+[REDACTED-MRN-1]
+PO Box 235498
+01-01-1900/1948, Sex: F
+[redacted-address-7]
+&
+[redacted-address-5]
+We
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Notes - LMR (continued)
+~: Patient Communication
+[redacted-address-7] Not seen
+Labs - LMR
+No documentation.
+Imaging
+- LMR
+Imaging
+Resulted: 03/01/24 0843, Result status: Final
+POC US eFAST [827915063]
+result
+¢: Norton, Valerie Constance, MD
++:03/01/24 0828 - 03/01/24 0828
+03/01/24 0828
+Norton, Valerie Constance, MD
+3/1/2024 8:44 AM
+POC US eFAST
+POC18266
+Date/Time: 3/1/2024 8:43 AM
+Performed by: Norton, Valerie Constance, MD
+Authorized by: Norton, Valerie Constance, MD
+Procedure details:
+Technique:
+Abdominal, cardiac and chest
+Abdominal findings:
+Hepatorenal free fluid: not identified
+Rectovesical free fluid: not identified
+Splenorenal free fluid: not identified
+Cardiac findings:
+Heart: Visualized
+Wall motion: identified
+Pericardial effusion: not identified
+Chest findings:
+[REDACTED-ADDRESS-6] lung sliding: identified
+[REDACTED-MRN-1] lung sliding: identified
+Fluid in thorax: not identified
+Testing Performed By
+Lab - Abbreviation
+Name
+Director
+Address
+Valid Date Range
+22- IMG
+IMAGING
+Unknown
+Unknown
+07/16/14
+1111 - Present
+POC US eFAST [827915062]
+ieniront
+123 dummy street, dummy city by: Norton, Valerie Constance, MD on 03/01/24 0828
+Generated by 127511 at 5/17/24 10:54 AM
+Page 000000MRN
+
+============================================================
+PAGE 000000MRN
 ============================================================
 
-Patient Name:
-Segle Alex Brown
-access fees from your cellular provider.
-Status: Not Signed - Patient Contamination
-Signature Graphic:
-09/04/2024 6:49:17
-AM
-—0600
-FAXCOM
-PAGE
-10
-OF
-10
-EMS Agency Name:
-Big Bear
-Fire Department
-By providing us with
-a telephone number for a cellular phone or other wireless device, you are expressly consenting to receiving communications
-~including but not limited to
-prerecorded or artificial voice message calls, text messages, and calls made byan automatic telephone dialing system —from us and our affiliates and agents at that number. This
-express consent applies to each such telephone number that you provide to us new or inthe Future and permits such calls regardless of their purpose. Calls and messages may incur
-Printed Alex Brown
-Date/Time Signature Locked: 06/30/2024 17:29:27
-Signature Date:
-Type of Person Signing: EMS Primary Care Provider (for this event}
-Signature Reason: EMS Provider
-Paragraph Text:
-Status: Signed
-Signature Graphic:
-Printed Name: Cesar
-Diaz
-Date/Time Signature Locked:
-Signature Date:
-Type of Person Signing: Healthcare Provider
-Signature Reason: Transfer of Patient Care
-Paragraph Text:
-Status: Signed
-Signature Graphic:
-Printed Name: Lisa
-RN
-Date/Time Signature Locked: 06/30/2024 17:39:02
-Signature Date:
-ad
-Number of Patients
-Single
-at Scene:
-REDS
-Patient Belongings:
-Cell Phone
-Patient Belongings
-At Destination with Patient
-Left with:
-Unit Notified:
-06/30/2024 16:58:25
-24-159096
-Patient Care Report Number:
-00000000000000000000000000000000
-Patient Name:
-Begte 24-15909659096
-Date Printed:
-08/27/2024
-13:48
-Page 5 of 5
+45/24/24
+87:49:16
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+HA?
+SCRIPPS HEALTH
+Martinez, Lelia [REDACTED-MRN-1]
+[redacted-address-7].
+PAA
+PO Box 235498
+01-01-1900/1948, Sex: F
+Wee
+wR
+res
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - [REDACTED-ADDRESS-6] inScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Imaging
+- LMR (continued)
+’.Norton, Valerie Constance, MD 03/01/24
+0828
+s:Norton, Valerie Constance, MD
+Once 03/01/24 0829 000000MRN23 dummy street, dummy city occurrence
+¥*POC US eFAST: Patient Communication
+Not Released
+[redacted-address-7]
+X-ray chest 000000MRN views with pa/ap and lateral [827910296]
+[REDACTED-MRN-1] Norton, Valerie Constance, MD
+123 DUMMY STREET, DUMMY CITY
+03/01/24 0828
+3/01/24 0852 - 03/01/24 0904
+SCRIPPS RADIOLOGY
+EXAMINATION: X-RAY CHEST 000000MRN VIEWS WITH PA/AP AND LATERAL
+DATE/TIME:
+3/1/2024 9:04 AM
+HISTORY:
+mva
+COMPARISON:
+None.
+FINDINGS:
+LINES/TUBES: Not applicable.
+LUNGS: No significant parenchymal abnormality.
+PLEURA: No significant abnormality.
+VASCULATURE:
+Normal. Unremarkable pulmonary vasculature.
+CARDIAC:
+Normal. No cardiac silhouette abnormality.
+MEDIASTINUMHILA:
+Normal. No visible mass or adenopathy.
+BONES:
+No suspicious abnormality.
+OTHER:
+Negative.
+IMI
+ION:
+No acute pulmonary disease
+release
+Testing Performed By
+. Norton, Valerie Constance, MD
+Resulted: 03/01/24 0940, Result status: Final
+result
+oy Chou, Eric 123 DUMMY STREET, DUMMY CITY MD
+:3011998459
+Lab - Abbreviation
+Name
+Director
+Address
+Valid Date Range
+24- RAD
+SCRIPPS
+Unknown
+Unknown
+07/24/18 0646 - Present
+RADIOLOGY
+Signed
+Electronically signed by Chou, Eric 123 DUMMY STREET, DUMMY CITY MD on 3/1/24 at 0940 PST
+X-ray chest 000000MRN views with pa/ap and lateral [827910293]
+Generated by 127511 at 5/17/24 10:54 AM
+Page 000000MRN
+
+============================================================
+PAGE 000000MRN
+============================================================
+
+85/24/24
+87:49:48
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page HB
+%
+Imaging
+- LMR (continued)
+123 dummy street, dummy city
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+03/01/2024- [REDACTED-ADDRESS-6]
+=
+Norton, Valerie Constance, MD on 03/01/24 0828
+Norton, Valerie Constance, MD 03/01/24
+Completed
+Norton, Valerie Constance, MD
+0828
+Norton, Valerie Constance, MD
+Once 03/01/24 0828 000000MRN23 dummy street, dummy city occurrence
+Questionnaire
+Scray chest 000000MRN views with pa/ap and lateral: Patient Communication
+“Not Released
+123 dummy street, dummy city Not seen
+Resulted: 03/01/24 1001, Result status: Final
+CT cervical spine without contrast Reason: trauma [827910294]
+result
+:Norton, Valerie Constance, MD
+123 dummy street, dummy city Chou, Eric 123 DUMMY STREET, DUMMY CITY MD
+03/01/24 0828
+03/01/24 0946 - 03/01/24 0946
+:SCRIPPS RADIOLOGY
+3011999953
+EXAMINATION: CT CERVICAL SPINE WITHOUT CONTRAST
+DATE/TIME:
+3/1/2024 9:46 AM
+HISTORY: trauma
+COMPARISON:
+None.
+TECHNIQUE: CT examination was performed of the cervical spine without intravenous contrast.
+Dose reduction
+techniques were utilized for this examination including adjustment of the mA and/or kV according to the patient's size
+(BMI).
+FINDINGS:
+CRANIOCERVICAL AREA:
+Normal foramen magnum with no Chiari malformation.
+BONES:
+No fracture or osseous lesion.
+CERVICAL DISCS: Mild degenerative disc disease C4-C5.
+PARASPINAL AREA:
+Normal with no visible mass.
+BASE OF NECK: Negative.
+Incidentally detected thyroid nodules less than 000000MRN cm in diameter in patients less than [redacted-address-7]
+years of age, and less than 1.5 cm in diameter in patients greater than [redacted-address-7] years of age, do not typically require further
+imaging evaluation.
+LUNG APICES:
+No abnormality on limited evaluation.
+SUPPORTING GUIDELINES FOR NODULES ON LIMITED PORTIONS OF LUNGS (American [redacted-address-6] Association
+2019): Not applicable: No nodule(s) or stabilityof findings compared to prior study.
+OTHER:
+None.
+EXPOSURE:
+This patient received 123 dummy street, dummy city total of 000000MRN exposure event(s) during this CT examination. The CTDIvol and DLP radiation dose
+values for each exposure are:
+Exposure: ; Series: ; Anatomy: Neck;
+Phantom: 000000MRN cm; CTDIvol: 14;
+DLP: 249
+Exposure: ; Series: ; Anatomy: [REDACTED-ADDRESS-6] Spine;
+Phantom: 000000MRN cm;
+CTDIvol: [redacted-address-5]
+DLP: 837
+The following accession numbers are related to this dose report {3011999953}:
+3011999955
+The dose indicators for CT arethe volume Computed Tomography (CT) Dose Index (CTDIvol) and the Dose Length
+Product (DLP), and are measured
+in units of mGy and mGy-cm, respectively. These indicators are not patient dose, but
+values generated from the CT scanner acquisition factors. The report includes radiation exposure data for exposures
+received during this examination.
+If multiple reports are produced from this examination, the exposure data is duplicated
+Generated by 127511 at 5/17/24 10:54 AM
+Page [redacted-address-5]
+
+============================================================
+PAGE 123 dummy street, dummy city1-01-1900
+
+85/24/24
+@7:58:29
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+HA9
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - [REDACTED-ADDRESS-6] inScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Imaging
+- LMR (continued)
+in each report. The exposure data reported is indicative, but not determinative, of the radiation dose received by this
+patient.
+IMPRESSION:
+No acute fracture or malalignment
+release
+Testing Performed By
+«bab: Abbreviation Name
+Director
+Address
+ValidDate Range
+24- RAD
+SCRIPPS
+Unknown
+Unknown
+07/24/18 0646-
+Present
+RADIOLOGY
+Signed
+Electronically signed by Chou, Eric 123 DUMMY STREET, DUMMY CITY MD on 3/1/24 at 1001 PST
+CT cervical spine without contrast Reason: trauma [827910291]
+sy: Norton, Valerie Constance, MD on 03/01/24 0828
+Norton, Valerie Constance, MD 03/01/24
+tus: Completed
+123 dummy street, dummy city Norton, Valerie Constance, MD
+0828
+:Norton, Valerie Constance, MD
+Once 03/01/24 0828 000000MRN23 dummy street, dummy city occurrence
+§: trauma
+SOT cervical spine without contrast Reason: trauma: Patient Communication
+“Not Released
+123 dummy street, dummy city Not seen
+Resulted: 03/01/24 [REDACTED-MRN-1] Result status: Final
+CT thoracic spine without contrast Reason: trauma [827910295]
+result
+:Norton, Valerie Constance, MD
+123 dummy street, dummy city Chou, Eric 123 DUMMY STREET, DUMMY CITY MD
+03/01/24 0828
+03/01/24 0946- 03/01/24 0946
+3011999955
+:SCRIPPS RADIOLOGY
+EXAMINATION: CT THORACIC SPINE WITHOUT CONTRAST
+DATE/TIME:
+3/1/2024 9:46 AM
+HISTORY: trauma
+COMPARISON:
+None.
+TECHNIQUE: CT examination was performed of the thoracic without intravenous contrast.
+Dose reduction techniques
+were utilized for this examination including adjustment of the mA and/or kV according to the patient's size (BMI).
+FINDINGS:
+PARASPINAL AREA:
+Normal with no visible mass.
+BONES:
+No fracture or osseous lesion.
+DISC SPACES: No significant disc/facet abnormality, spinal stenosis, or foraminal stenosis.
+OTHER: None.
+Generated by 127511 at 5/17/24 10:54 AM
+Page 29
+
+============================================================
+PAGE 123 dummy street, dummy city1-01-1900
+
+85/240/24
+@7:51:84
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+414
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - [REDACTED-ADDRESS-6] inScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Imaging
+- LMR (continued)
+EXPOSURE:
+This patient received 123 dummy street, dummy city total of 000000MRN exposure event(s) during this CT examination. The CTDIvol and DLP radiation dose
+values for each exposure are:
+Exposure:; Series:; Anatomy: [REDACTED-ADDRESS-6] Spine; Phantom:
+32cm;
+CTDIvol: [redacted-address-5] DLP: 837
+Exposure:; Series:; Anatomy: Neck;
+Phantom: 32cm; CTDIvol: 14;
+DLP: 249
+Thefollowing accession numbers are related to this dose report {3011999955}:
+3011999953
+The dose indicators for CT are the volume Computed Tomography (CT) Dose Index (CTDIvol) and the Dose Length
+Product (DLP), and are measured
+in units of mGyand mGy-cm, respectively. These indicators are not patient dose, but
+values generated from the CT scanner acquisition factors. The report includes radiation exposure data for exposures
+received during this examination.
+If multiple reports are produced from this examination, the exposure data is duplicated
+in each report. The exposure data reported is indicative, but not determinative, of the radiation dose received by this
+patient.
+IMPRESSION:
+No acute fracture or malalignment
+release
+Testing Performed By
+Lab - Abbreviation
+Name
+Director
+Address
+Valid Date Range
+SCRIPPS
+Unknown
+Unknown
+07/24/18 0646-
+Present
+RADIOLOGY
+Signed
+Electronically signed by Chou, Eric 123 DUMMY STREET, DUMMY CITY MD on 3/1/24 at [REDACTED-MRN-1] PST
+CT thoracic spine without contrast Reason: trauma [827910292]
+Norton, Valerie Constance, MD on 03/01/24 0828
+orton, Valerie Constance, MD 03/01/24
+Completed
+[REDACTED-MRN-1] Norton, Valerie Constance, MD
+0828
+123 dummy street, dummy city Norton, Valerie Constance, MD
+Once 03/01/24 0828- 000000MRN occurrence
+trauma
+Not Released
+® Not seen
+Imaging-
+Cardiac Cath
+No documentation.
+Procedures - LMR
+No documentation.
+Generated by 127511 at 5/17/24 10:54 AM
+Page 30
+
+============================================================
+PAGE 123 dummy street, dummy city
+============================================================
+
+45/28/24
+87:51:48
+[redacted-address-7]
+we
+03/01/2024 - EDItin
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+VFD214M6N214 Scripps Health
+Page
+411
+Martinez, Lelia [REDACTED-MRN-1]
+01-01-1900/1948, Sex:
+F
+Adm: 3/1/2024, D/C: 3/1/2024
+nScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+03/01/2024 - [REDACTED-ADDRESS-6] in Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department
+[redacted-address-6] Orders
+No orders found for this encounter
+SH HIM ROI CV Procedure Log
+03/01/2024 - [REDACTED-ADDRESS-6] in Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Delivery Summary
+History
+No documentation.
+Medication Administrations
+acetaminophen (TYLENOL) tablet [REDACTED-MRN-1] ma [827910290]
+Norton, Valerie Constance, MD
+03/01/24 0828
+[REDACTED-MRN-1] mg (0/1)
+Do not exceed 01-01-1900 123 dummy street, dummy city Acetaminophen per
+03/01/24 0841
+03/01/24 0842
+ibuprofen.(MOTRIN) tablet 600mg [827915064]
+Hessamian, Keon, MD
+03/01/24 1020
+[REDACTED-MRN-1] mg (0/1)
+Take with food or snack to lessen
+stomach upset.
+Completed (Past End Date/Time)
+000000MRN 03/01/24 0845 - 03/01/24 0841
+Other Information
+: Mascari, Katelyn
+123 DUMMY STREET, DUMMY CITY [REDACTED-MRN-1]
+=: 0904-6730-61,
+0904-6730-61
+Completed (Past End Date/Time)
+123 dummy street, dummy city 03/01/24 1045 - 03/01/24 1045
+:oral
+Timestamps
+Action
+Dose
+Route
+Other Information
+Given
+[REDACTED-MRN-1] mg
+oral
+123 DUMMY STREET, DUMMY CITY
+jascari, Katelyn
+123 DUMMY STREET, DUMMY CITY [REDACTED-MRN-1]
+03/01/24 000000MRN
+Immunizations Given
+No documentation.
+Immunizations [redacted-address-5] of 3/1/2024
+MARTINEZ,LELIA
+[REDACTED-MRN-1]
+Moderna Sars-cov-2 Vaccine
+Lot
+ouDate
+Manufacturer
+#—_-Route/Site
+OrderingProvider
+NCD
+Generated by 127511 at 5/17/24 10:54 AM
+Page 123 dummy street, dummy city
+
+============================================================
+PAGE 01-01-1900
+
+85/28/24
+@7:52:28
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page [redacted-address-5]
+PY
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+\we
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDItin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Immunizations [redacted-address-5] of 3/1/2024 (continued)
+1/25/2021
+Moderna
+[REDACTED-MRN-1]
+=IM/LD
+M2
+OA
+2/22/2021
+Moderna
+[REDACTED-MRN-1]
+IMLD
+MARTINEZ,LELIA
+[REDACTED-MRN-1]
+10/20/2023
+303
+Other Orders - LMR
+Medications
+acetaminophen (TYLENOL) tablet [REDACTED-MRN-1] mg [827910290] (Completed)
+:Norton, Valerie Constance, MD on 03/01/24 0828
+Norton, Valerie Constance, MD 03/01/24
+0828
+Norton, Valerie Constance, MD
+outine Once 03/01/24 0845 000000MRN23 dummy street, dummy city occurrence
+. Mascari, Katelyn 123 DUMMY STREET, DUMMY CITY [REDACTED-MRN-1] 03/01/24 0834 for Placing Order
+=: Do not exceed 01-01-1900 123 dummy street, dummy city Acetaminophen per day
+000000MRN 0904-6730-61
+acetaminophen (TYLENOL) tablet [REDACTED-MRN-1] mg [827910290]
+. Norton, Valerie Constance, MD on 03/01/24 0828
+orton, Valerie Constance, MD 03/01/24
+:
+Completed
+:Norton, Valerie Constance, MD
+0828
+: Norton, Valerie Constance, MD
+Once 03/01/24 0845 - 1.occurrence
+-0904-6730-61
+“acetaminophen (TYLENOL) tablet [REDACTED-MRN-1] mq: Patient Communication
+Not Released
+[redacted-address-7] Not seen
+ibuprofen (MOTRIN) tablet [REDACTED-MRN-1] mg [827915064] (Completed)
+oy Hessamian, Keon, MD on 03/01/24 1020
+Hessamian, Keon, MD 03/01/24 1020
+Norton, Valerie Constance, MD
+AT Once 03/01/24 1045-1
+occurrence
+: Mascari, Katelyn 123 DUMMY STREET, DUMMY CITY [REDACTED-MRN-1] 03/01/24 1020 for Placing Order
+Take with food or snack to lessen stomach upset.
+000000MRN 63739-684-01
+Generated by 127511 at 5/17/24 10:54 AM
+Page 000000MRN
+
+============================================================
+PAGE [redacted-address-5]
+============================================================
+
+45/24/24
+§7:53:83
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+413
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex:
+F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDItin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+we
+Other Orders - LMR (continued)
+ibuprofen (MOTRIN) tablet [REDACTED-MRN-1] mg [827915064]
+:Hessamian, Keon, MD on 03/01/24 1020
+Hessamian, Keon, MD 03/01/24 1020
+123 dummy street, dummy city
+Norton, Valerie Constance, MD
+Once 03/01/24 1045 000000MRN23 dummy street, dummy city occurrence
+Completed
+Hessamian, Keon, MD
+ee:63739-684-01
+¥ “ibuprofen (MOTRIN) tablet [REDACTED-MRN-1] mq: Patient Communication
+Not Released
+[redacted-address-7] Not seen
+acetaminophen (TYLENOL) 500ma tablet [827915065] (Active)
+Norton, Valerie Constance, MD on’03/01/24 1040
+Norton,‘Valerie Constance, MD 03/01/24
+>Norton, Valerie Constance, MD
+Norton, Valerie Constance, MD
+123 dummy street, dummy city
+mild pain (level 1-3)
+Routine Q6H [REDACTED-MRN-1] 03/01/24-
+Until
+Discontinued
+123 dummy street, dummy city Standard
+acetaminophen (TYLENOL) [REDACTED-MRN-1] mg tablet [827915065]
+. Norton, Valerie Constance, MD on 03/01/24 [REDACTED-DOB-3]
+orton, Valerie Constance, MD 03/01/24
+[REDACTED-DOB-3] Active
+:Norton, Valerie Constance, MD
+‘Norton, Valerie Constance, MD
+. mild pain (level 1-3)
+Q6H [REDACTED-MRN-1] 03/01/24 - Until Discontinued
+acetaminophen (TYLENOL) [REDACTED-MRN-1] mq tablet [827915065]
+[REDACTED-MRN-1] mg
+ral
+Every 000000MRN hours [REDACTED-MRN-1] for mild
+[redacted-address-6] el 1+3)
+Take 000000MRN tablets [REDACTED-MRN-1] mg total) by mouth every 000000MRN (six) hours [redacted-address-5] needed for mild pain (level 1-3)
+03/01/24
+000000MRN 03/01/24
+Providers
+Norton, Valerie Constance, MD
+Pharmacy
+CVS/pharmacy 01-01-1900 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY - 313 123 DUMMY STREET, DUMMY CITY Washington St.
+313 123 DUMMY STREET, DUMMY CITY Washington St., 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city
+000000MRN
+619-291-7170 Fax
+619-291-7167
+icetaminophen (TYLENOL) tablet: Patient Communication
+Generated by 127511 at 5/17/24 10:54 AM
+Page 33
+
+============================================================
+PAGE 000000MRN
+============================================================
+
+45/24/24
+§7:53:48
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+414
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDItin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Other Orders- LMR (continued)
+we
+©Not Released
+[redacted-address-7] Not seen
+ibuprofen (MOTRIN) [REDACTED-MRN-1] mg tablet [827915066] (Active)
+:Norton, Valerie Constance, MD on 03/01/24 1040
+Norton, Valerie Constance, MD 03/01/24
+123 DUMMY STREET, DUMMY CITY
+1040
+[redacted-address-6] Norton, Valerie Constance, MD
+pain or fever
+¥:Routine Q6H [REDACTED-MRN-1] 03/01/24 - Until
+Discontinued
+ibuprofen (MOTRIN) 400mg tablet [827915066]
+yy Norton, Valerie Constance, MD on 03/01/24 1040
+Norton, Valerie Constance, MD 03/01/24
+:Norton, Valerie Constance, MD
+1040
+Norton, Valerie Constance, MD
+pain or fever
+Q6H [REDACTED-MRN-1] 03/01/24 - Until Discontinued
+ibuprofen (MOTRIN) 400mq tablet (827915066)
+400mg
+:oral
+Freq
+. Every 000000MRN hours [REDACTED-MRN-1] for pain or
+fever
+000000MRN 000000MRN
+Wilten©
+=:03/01/25
+Providers
+Norton, Valerie Constance,
+NPE 1700829090
+Norton, Valerie Constance, MD
+Pharmacy
+CVS/pharmacy 01-01-1900 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY - 313 123 DUMMY STREET, DUMMY CITY Washington St.
+313 123 DUMMY STREET, DUMMY CITY Washington St., 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city
+000000MRN
+619-291-7170
+Fax:
+619-291-7167
+Siibuprofen (MOTRIN) tablet: Patient Communication
+jot Released
+[redacted-address-7] Not seen
+lidocaine (LIDODERM) [redacted-address-7]000MRN % patch [827915067] (Active)
+uy Norton, Valerie Constance, MD on 03/01/24 1040
+Norton, Valerie Constance, MD 03/01/24
+123 DUMMY STREET, DUMMY CITY
+[REDACTED-MRN-1] Norton, Valerie Constance, MD
+Norton, Valerie Constance, MD
+Routine Daily 03/01/24 [REDACTED-DOB-3] days
+123 dummy street, dummy city Standard
+Generated by 127511 at 5/17/24 10:54 AM
+Page 34
+
+============================================================
+PAGE 14
+============================================================
+
+45/28/24
+87:54:16
+Scripps Health
+->
+VFD214M6N214 Scripps Health
+Page
+415
+PY
+[redacted-address-5]
+SCRIPPS [redacted-address-7]:
+PO Box 235498
+ee
+01-01-1900/1948,
+Sex:
+F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDItin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Other Orders - LMR (continued)
+Remove and discard patch within
+[redacted-address-5] hours or [redacted-address-5] directed by MD.
+lidocaine (LIDODERM) 000000MRN patch [827915067]
+Norton, Valerie Constance, MD on 03/01/24 1040
+Norton, Valerie Constance, MD 03/01/24
+1040
+123 dummy street, dummy city
+Norton, Valerie Constance, MD
+ay: Norton, Valerie Constance, MD
+aily 03/01/24 [REDACTED-DOB-3] days
+lidocaine (LIDODERM) 000000MRN %patch 18279150671
+123 dummy street, dummy city
+000000MRN patch
+transdermal
+‘¥:30patch
+000000MRN
+:03/01/24
+Place 1patch onthe skin daily. Remove and discard patch within [redacted-address-5] hours or [redacted-address-5] directed by MD.
+>.03/01/24
+>,05/30/24 after 90doses
+fe: 03/01/25
+Providers
+7:Norton, Valerie Constance,
+NFE 1700829090
+:. Norton, Valerie Constance, MD
+Pharmacy
+CVS/pharmacy 01-01-1900 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 313E. Washington St.
+313 123 DUMMY STREET, DUMMY CITY Washington St., 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city
+[REDACTED-ADDRESS-5]
+619-291-7170
+Fax:
+619-291-7167
+$*LIDOCAINE 000000MRN TOPICAL PATCH: Patient Communication
+Not Released
+[redacted-address-7] Not seen
+Dental
+No documentation.
+Ophthalmology
+No documentation.
+Rheumatology
+No documentation.
+Flowsheets
+Acuity/Destination
+wc HOW Name
+O8(01/26
+0817
+Acuity/Destination
+Urgent
+Quick Screen
+Generated by 127511 at 5/17/24 10:54 AM
+
+============================================================
+PAGE 15
+============================================================
+
+Ses85/28/24
+a7:sf:52
+Scripps
+Hea
+ow
+123 dummy street, dummy city
+VEDe14MeNet4 Scripps Health
+01-01-1900
+q
+SCRIPPS HEALTH
+Martinez, LeliaM
+01-01-1900
+[redacted-address-7]
+01-01-1900/1948, Sex: F
+Wor
+Ka
+Rs
+‘aMS
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+Page
+416
+03/01/2024 - EDIin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Flowsheets (continued)
+Complete
+Arrival Documentation
+Row Name
+03/01/24 0817
+Prehospital Treatment
+Py
+Yes
+[REDACTED-ADDRESS-6] Trek Updates
+RowName
+03/01/24 0937
+93/01/24 0849
+Trek
+ak
+Sent to CT Scan
+Sent to Radiology
+Patient Sent With
+GUG/ISAR
+Row Name
+03/01/24 0816
+000000MRN Normal
+GENIE GUG Referral
+ISAR (ldentitication of Seniors at Risk) Screening
+:
+No
+Generated by 127511 at 5/17/24 10:54 AM
+Page 36
+
+============================================================
+PAGE 16
+============================================================
+
+~ 45/24/24
+123 DUMMY STREET, DUMMY CITY 55: [redacted-address-5]
+Scripps Health
+VEDe14MeNet4 Scripps Health
+Page
+417
+SS
+q
+SCRIPPS HEALTH
+Martinez, [redacted-address-7]
+01-01-1900/1948, Sex: F
+Wwe
+Sat Ree
+‘awe
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDIin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Flowsheets (continued)
+LACE+ Score
+Row Name
+03/01/24 1054
+53
+Long GT and TdP Risk Scoring Systems
+RowName
+03/01/24 1008
+O3/01/240907
+OTHER
+000000MRN
+000000MRN
+[REDACTED-DOB-3]000MRN
+000000MRN
+P/F RATIO -HIDDEN
+wow
+Name
+08/01/24
+1008
+08/01/240908
+OTHER
+123 dummy street, dummy city
+000000MRN
+000000MRN
+Pain Assessment
+owRowName03/01/241029
+Pain Assessment
+Pain Assessment Timer
+}
+Yes
+Primary Head to Toe Assessment
+aPowName
+03/01/240824
+Respiratory
+Within Defined
+Limits
+Cardiac
+Within Defined
+Limits
+Generated by 127511 at 5/17/24 10:54 AM
+Page 37
+
+============================================================
+PAGE 17
+============================================================
+
+~ 45/24/24
+123 DUMMY STREET, DUMMY CITY 56:49
+Scripps Health
+VEDe14MeNet4 Scripps Health
+Page
+418
+Oswg
+:
+SCRIPPS HEALTH
+Martinez, LeliaM
+[redacted-address-7]ity Scr
+~~
+<
+PO Box 235498
+01-01-1900/1948, Sex: F
+Wwe
+Ban
+ee
+123 dummy street, dummy city
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 = Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDIin‘Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Flowsheets (continued)
+Neurological
+01-01-1900
+000000MRN
+Within Defined
+Limits
+Peripheral Vascular
+Within Defined
+Limits
+HEENT
+Skin Color/Condition
+Within Defined
+Limits
+Gastrointestinal
+Within Defined
+123 dummy street, dummy city
+Limits
+Genitourinary
+Within Defined
+Limits
+Endocrine
+Within Defined
+Limits
+Musculoskeletal
+01-01-1900
+[redacted-address-7]000MRN
+}
+Within Defined
+Limits
+Psychosocial
+123 DUMMY STREET, DUMMY CITY
+123 dummy street, dummy city
+Within Defined
+Limits
+Screenings
+wowName
+0801/24 0818
+Morse Fall Risk
+No
+No
+None/bedrest/nurse
+assist
+No
+Normal/bedrest/whe
+elchair
+Oriented to own
+ability
+000000MRN
+Sepsis Risk Score
+wowName
+0801241049
+08/01/24
+1031
+03/01/24 1019
+O3/01/24 1007.
+93/01/24 0945
+Sepsis Risk Score
+isk
+1.3
+1.3
+2.88
+2.88
+2.88
+owName
+03/01/24 0931
+O3/01/240915
+93/01/240806
+03/01/240845
+08/01/24 0831
+Generated by 127511 at 5/17/24 10:54 AM
+Page 38
+
+============================================================
+PAGE 18
+============================================================
+
+aa.
+Ar:56:46
+Scripps
+Health
+VEDe14MeNet4 Scripps Health
+Page
+419
+aw
+SCRIPPS HEALTH
+Martinez, LeliaM
+[redacted-address-7]
+01-01-1900/1948, Sex: F
+*
+“
+Kate
+123 dummy street, dummy city
+MS
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - EDIin Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Flowsheets (continued)
+Sepsis Risk Score
+123 DUMMY STREET, DUMMY CITY
+2.88
+2.88
+2.88
+2.88
+2.04
+Suicide/Homicide Risk
+aPowName
+03/01/24 0816
+Columbia Suicide Severity Rating Scale
+No
+Travel/Exposure/TB Screening
+aPowName
+03/01/24 0815
+Tuberculosis Screening [redacted-address-6] items must be valued)
+123 dummy street, dummy city
+Denies symptoms
+ Gonieg rgke nena
+TB Risk Screen
+Negative
+Vital Signs
+Row Name
+03/01/24 1045
+03/01/24 1030
+03/01/24 000000MRN
+03/01/24 0822
+_
+Yes
+Yes
+Yes
+_
+_
+Yes
+37.2 123 DUMMY STREET, DUMMY CITY (99 °F)
+000000MRN STs
+=_
+Oral
+Oxygen Therapy
+[redacted-address-7]
+Continuous
+None (Room air)
+Patient Education
+No documentation.
+Patient Instructions
+No documentation.
+Generated by 127511 at 5/17/24 10:54 AM
+Page 123 dummy street, dummy city
+
+============================================================
+PAGE 01-01-1900
+
+45/240/24
+87:57:26
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+424
+Shy
+oo
+SCRIPPS HEALTH
+Martinez, [redacted-address-7]:
+PO Box 235498
+01-01-1900F
+Ye’
+SSR SP
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+03/01/2024 - [REDACTED-ADDRESS-6] inScripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department (continued)
+Discharge Instructions - Discharge Instructions
+Discharge Instructions by Norton, Valerie Constance, MD
+03/01/24 [REDACTED-DOB-3] Norton, Valerie Constance, MD
+&
+03/01/24 1040
+Written
+03/01/24 1040
+Norton, Valerie Constance, MD (Physician
+THANK YOU for allowing us to treat you in the Scripps Mercy 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department today.
+Please read these discharge instructions completely.
+If you have any questions, please ask your doctor or
+nurse. 123 Dummy Street, Dummy City is very important for you to understand these instructions and follow the plan that has been outlined
+to get you on the road to health [redacted-address-5] soon [redacted-address-5] possible. To help you further understand your condition, we
+have provided information about your diagnosis along with the treatment plan in the attached sheets.
+Please read and ask if you have any questions.
+Please note:
+- We did not feel you need to be admitted to the hospital today.
+- Your condition may change, and if you are concerned you are getting worse, we are happy to see you
+again at any time.
+-
+Please fill any prescriptions promptly, and take medications [redacted-address-5] directed.
+- Make sure to follow up [redacted-address-5] instructed for post-emergency department reassessment with your doctor, or
+with another MD or specialist [redacted-address-5] directed, within the indicated time. If you cannot, you can 123 dummy street, dummy city toa
+community clinic.
+----Hillcrest Family Health [redacted-address-6] 4094 4th 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city 619-515-2545
+If you cannot arrange follow up, then return to the emergency department for re-evaluation. Failure to follow-
+up [redacted-address-5] directed could lead to disability, worsening illness, or even death.
+- Please return to the Emergency Dept. right away, ifyou have worsening symptoms, increasing pain, fever
+>101F, vomiting, or any other concerning symptoms after discharge.
+- If you are 123 dummy street, dummy city smoker, we recommend you quit smoking.
+Please talk to your doctor for help, or call 1-800-
+NO-BUTTS for smoking cessation resources.
+- If your blood pressure was higher than 120/80 during your time in the [REDACTED-ADDRESS-6] you may have high blood
+pressure.
+Please get your blood pressure rechecked within 000000MRN week at 123 dummy street, dummy city clinic or with your primary care
+physician.
+You can download the myScripps app on your phone and create 123 dummy street, dummy city account to see any test results and
+show them to your doctor [redacted-address-5] needed.
+Thank You!
+Emergency Department
+Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City
+(619) 686-3800
+Generated by 127511 at 5/17/24 10:54 AM
+Page 40
+
+============================================================
+PAGE 20
+============================================================
+
+45/24/24
+@7:58:84
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+421
+oy
+SCRIPPS HEALTH
+Martinez, Lelia [REDACTED-MRN-1]
+[redacted-address-7]
+01-01-1900/1948, Sex: F
+we
+SSA
+Ye re
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Discharge Instructions - Discharge Instructions (continued)
+Questionnaires
+No documentation.
+Coding Summary
+Account Information
+Hospital Account
+Primary Payor
+Affiliated Recurring Accounts
+Gombined from HAR
+3900955202 -
+MEDICARE [430]
+None
+None
+MARTINEZ,LELIA
+[REDACTED-MRN-1]
+Admission Information
+03/01/2024 000000MRN
+03/01/2024 000000MRN
+Emergency
+Non-healthcare
+Facility Point Of
+Origin
+Emergency
+Medicine
+SCRIPPS
+Scripps Mercy
+HEALTH
+Hospital 123 Dummy Street, Dummy City
+123 Dummy Street, Dummy City Emergency
+Department
+Walk In
+[REDACTED-ADDRESS-7]
+Norton, Valerie
+Constance, MD
+Discharge
+Informatior
+‘Discharge
+Discharge
+(Routine)
+Constance, MD
+Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City
+Emergency
+Department
+Admission Diagnoses/
+Reasons for Visit (ICD-10-CM)
+Description
+Comments
+Cervicalgia
+Final Diagnoses
+(ICD-10-CM)
+Affects
+so S008,
+Description
+POA
+[redacted-address-6]
+HAC
+BE
+$16.1XXA
+Strain of muscle, fascia and tendon at neck level, initial
+{Principal
+encounter
+$29.012A
+000000MRN
+External Causes of Injury (ICD-10-CM)
+Affects
+Code
+Description
+POA
+CC
+HAC
+DRG
+V49.40XA
+Driver injured
+in collision with unspecified motor vehicles in
+92.414
+Local residential or business street [redacted-address-5] the place of
+occurrence of the external cause
+Generated by 127511 at 5/17/24 10:54 AM
+Page 41
+
+============================================================
+PAGE 123 dummy street, dummy city
+============================================================
+
+45/24/24
+48:45:33
+Scripps
+wr
+=
+sett
+[redacted-address-7]
+‘ag
+[redacted-address-7]
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+VFD214M6N214 Scripps Health
+Martinez, Lelia [REDACTED-MRN-1]
+Page
+436
+01-01-1900/1948, Sex:
+F
+Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+After Visit Summary - Document on 3/1/2024 1048: [REDACTED-ADDRESS-6] After Visit Summary
+Document (below)
+WRITTEN DISCHARGE INFORMATION
+To heip you manage your health
+after you leave ourcare, wewill review important
+information with you at discharge:
+uThave had my [redacted-address-6] condition explained to [redacted-address-6] and was kept
+informed about my treatment
+aLunderstand what symptoms and health problems to look out for
+when Igo home
+of understand the following information about my new and
+continued medications:
+- Purposefor taking each medication
+- Potential Side effects to be aware of
+«iFunderstand the items |am responsible for after discharge such [redacted-address-5]
+- Follow-up appointments
+- Outpatient follow-up tests
++ifthe physician |am referred to dogs nat accept my
+insurance }will calt 1-800-Scripps (1-800-727-4777)
+- if
+Fhave 123 dummy street, dummy city HMO insurance | will have to call my
+primary care physician to get areferral.
+- To request 123 dummy street, dummy city copy of my health records | will contact
+{76C) 633-7746
+- Tknow where 123 dummy street, dummy city pick up my prescriptions or {have
+received 123 dummy street, dummy city copy of mypaper prescription
+aThe staff talked with [redacted-address-6] about whether |have the help | need.
+We value your feedback! You may receive asurvey and itwould meana fot
+to our staff ifyou would take the time to complete 123 dummy street, dummy city
+Thank you for the honor and privilege of caring far you!
+Lelia [REDACTED-MRN-1] 01-01-1900948) » Printed oy {260498}
+at 3/1/2024 10:48 AM
+©2023 Epic Systems Corporation
+Page 1of 17
+Generated by 127511 at 5/17/24 10:54 AM
+Page 56
+
+============================================================
+PAGE 22
+============================================================
+
+85/240/24
+@8:85:55
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page 437
+oy
+[redacted-address-6]
+SCRIPPS HEALTH
+[redacted-address-7]23 dummy street, dummy city
+PO Box 235498
+01-01-1900/1948, Sex: F
+We"
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+123 DUMMY STREET, DUMMY CITY
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+000000MRN of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 57
+
+============================================================
+PAGE [redacted-address-7]
+
+85/24/24
+@8:86:88
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+438
+SCRIPPS [redacted-address-7]REDACTED-ADDRESS-5]
+PO Box 235498
+01-01-1900/1948, Sex: F
+SS
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+‘nai
+eet
+spenpet,
+one
+Lag
+123 dummy street, dummy city
+Lelia [REDACTED-MRN-1] Martinez
+01-01-1900
+Ee
+Puede encontrar sus instrucciones personalizadas 123 dummy street, dummy city fin de este documento.
+acetaminophen (TYLENOL
+ibuprofen (MOTRIN)
+lidocaine (UDODER™M)
+Revise 123 dummy street, dummy city lista de medicamentos actualizada abajo.
+Cervical Strain, Understanding (Spanish)
+cetaminophen
+-Presupuesto no disponible
++ibuprofen
+Presupuesto no disponible
+000000MRN
+rededor de la(s) 3/4/2024
+Family Medicine
+2400 £ 8TH ST
+National City 123 DUMMY STREET, DUMMY CITY 91950
+619-662-4100
+123 Dummy Street, Dummy City
+¥
+[redacted-address-6] ha tratado Valerie Constaice Norton, MD
+Motor Vehicte Crash
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+000000MRN of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 58
+
+============================================================
+PAGE 24
+============================================================
+
+85/28/24
+@8:86:29
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+439
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+» Cervical strain, acute, initial encounter
++Thoracic myofascial strain, initial encounter
+Motor vehicle accident (victim),
+initial encounter
+CT cervical spine without contrast
+CTthoracic spine without contrast
+Ultrasound eFAST
+X-ray chest
+000000MRN views with pa/ap ancl lateral
+acetaminophen (TY
+ibuprofen (MOTRIN)
+The information in this after visit summary is up to date [redacted-address-5] of: 3/1/2024 10:48 AM.
+¢Reaction(s): Dry cough
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page 01-01-1900 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 59
+
+============================================================
+PAGE 25
+============================================================
+
+45/24/24
+68:86:46
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+444
+wr
+=
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+[REDACTED-MRN-1] mg tablet
+Take 2tablets [REDACTED-MRN-1] mg total) by mouth every 6(sin)
+hours [redacted-address-5] needed for mild pain {level 1-3).
+Take 4tablet [REDACTED-MRN-1] mg total) by mauth every 5(six)
+hours asneeded (pain or fever}.
+Place 1patch on the skin daily, Remove and discard
+patch within
+[redacted-address-5] hours or [redacted-address-5] directed by MD.
+Enviar mensajes asu
+person.
+sus resultados de examenes, renovar sus recetas, programar citas, ymas.
+haga
+clic
+123 dummy street, dummy city
+‘egistrarse ahora’
+123 dummy street, dummy city ingrese st: cddigo personal de
+iValorames sus comentarios! Puede ser que reciba una encuesta, [redacted-address-6] que [redacted-address-5] tome el tiempo
+para completarla significaria
+muchisime para nuestro personal. Siquiere hablar con aiguien de inmediato, pregunte por ef enfermero acargo.
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by {260498}
+©2023 Epic Systems Corporation
+Page
+000000MRN of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 60
+
+============================================================
+PAGE 000000MRN
+============================================================
+
+85/240/24
+@8:87:88
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page 441
+oy
+[redacted-address-6]
+SCRIPPS HEALTH
+[redacted-address-7]23 dummy street, dummy city
+PO Box 235498
+01-01-1900/1948, Sex: F
+We"
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+123 DUMMY STREET, DUMMY CITY
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+000000MRN of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 61
+
+============================================================
+PAGE 000000MRN
+============================================================
+
+45/240/24
+@8:87:21
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+442
+~-
+%.
+Dae
+.
+SCRIPPS HEALTH
+Martinez, Lelia [REDACTED-MRN-1]
+.
+[redacted-address-7]R
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+THANK YOU for allowing us to treat you in the Scripps Mercy 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department today. Please read these
+discharge instructions completely.
+If you have any questions, ptease ask your dectoror nurse.
+123 Dummy Street, Dummy City is very important for you
+to understand these instructions and follow the plan that has been outlined to et you on the road to health [redacted-address-5] soon [redacted-address-5]
+possible. Tokelp you further understand your condition, we have provided information about your diagnosis along with
+the treatment plan in the attached sheets.
+Please read and ask ifyou have any questions.
+Please note:
+- Wedid not feel you need to be admitted to the hospital today.
+- Your condition may change, and if you are concerned you are getting worse, we are happy tosee you again at any time.
+- Please fill any prescriptions promptly, and take medications [redacted-address-5] directed.
+-Make sure to follow up [redacted-address-5] instructed for post-emergency department reassessment. with your doctor, or with another
+MD cr specialist asdirected, withie the indicated time. If you cannot, you can ge toacommunity clinic.
+----Hilicrest Family Health [redacted-address-6] 4094 4th 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city
+619-515-2545,
+Ifyou cannot arrange follow up. then returs to the emergency department for re-evaluation. Failure to follow-up [redacted-address-5]
+directed could lead todisability, worsening
+itiness, or even death.
+- Please return to the Emergency Dept. right away, ifyou have worsening symptoms, increasing pain, fever >
+107F,
+vomiting, or any other concerning symptoms after discharge.
+=
+Hfycu are asmoker, we recommend you quit smoking,
+Please talk to your dector fer help, or call 1-800-NO-SUTTS for
+smaking cessation resources.
+-
+your blood pressure was higher than 126/80 during your time in the [REDACTED-ADDRESS-6]
+you may have high blaod pressure.
+Please get
+your blood pressure
+rechecked within 1week ataclinic or with your primary care physician.
+You can
+download the myScripps app on your phone and create 123 dummy street, dummy city account fo seeany
+test results and show them to your
+doctor [redacted-address-5] needed.
+Thank You!
+Emergency Department
+Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City
+{619} 686-3800
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+000000MRN of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 62
+
+============================================================
+PAGE [redacted-address-5]
+============================================================
+
+85/246/24
+@8:87:45
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+443
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+Los siete huesos (vértebras} det cuello forman parte de [redacted-address-6] colurnna vertebrai, Este tramo [redacted-address-5] conoce como columna cervical.
+Distensién cervical
+es
+un término médico
+que define el delor de cuello. Elcuello esta formado por varias capas de
+muscutos.
+Estos estan
+conectados por tendones 123 dummy street, dummy city
+[redacted-address-6] columna cervical [redacted-address-6] 123 dummy street, dummy city otros huesos.
+123 DUMMY STREET, DUMMY CITY dolor de cuello generalmente es
+fa consecuencia de una jesidn 123 dummy street, dummy city estos musculos
+[redacted-address-6] tendones.
+Los
+siete huesos (vértebras) de! cuello forman parte cle
+lacolumna vertebral, Este
+tramo seconoce como columna cervical,
+Distensién cervica! es un
+témmino médico cue define el dolor decueilo. El cueilo esta formado por varias capas de
+miuscutos,
+Estén conectados por tendones con facolumna cervical yotros huesos. Etdolor de cuello generalmente esfa
+consecuencia de una lesi6n 123 dummy street, dummy city estos musculos [redacted-address-6] tendones.
+Calum
+venenrat
+x2
+ostyical
+Distintos tipos detensidn sobre el cuello pueden dafar los musculas ytendones (tejides blandos) [redacted-address-6] causar distension
+cervical. Los tejidos cervicates pueden resultar dafiados cuando sucede Josiguiente:
+* [redacted-address-5] esta forzando et cuedo mas alld de 123 dummy street, dummy city rango de movimiento normal, como cuando [redacted-address-5] areduce una fesion
+por accidente automovilisticc 01-01-1900 departivo
++ El cueilo esté sometide
+123 dummy street, dummy city une tensién constante de intensidad baja, came cuando [redacted-address-5] adapta una mala pastura
+123 dummy street, dummy city ef
+bajo no esta bien dispuesto:
+Puseden ser. par ejemplo:
+* Doloro rigidez [redacted-address-6] cuetio
++Dolor de hombros oenla parte alta de [redacted-address-6] espaida
++Espasmos musculares
++Dolor decabeza, que generalmente comienza 123 dummy street, dummy city fa base del cuella
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+01-01-1900 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 63
+
+============================================================
+PAGE 29
+============================================================
+
+85/240/24
+@8:88:11
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+444
+123 Dummy Street, Dummy City
+123 dummy street, dummy city
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+be
+wey
+Documents (continued)
++Initabilidad, dificultad para concentrarse cfalta de suefio
++Entumecimiento 123 dummy street, dummy city el brazo ofa mano
++Hormigueo odebitidad 123 dummy street, dummy city fosbrazos
+Este problema con frecuencia mejara porsi solo. Los tratamientos apuntas aaliviar el dator ylainflamacidn y2aumentar
+el rango de movimiento del cuelio. Aigunos tratammientos posibles:
++ Cambios 123 dummy street, dummy city ia postura 123 dummy street, dummy city jas posiciones para dormis. Puede aliviar ia tension muscular
++ Medicamentos de venta libre 123 dummy street, dummy city recetados. Ayudana aliviar el defor [redacted-address-6] Ia inflamacion.
++Un relajante muscular puede ayudar con tos espasmos musculares.
++Ejercicios de estiramiento para cisminuir larigidez del cuello.
++Masajes para clisminutr [redacted-address-6] rigidez det cuello.
++Compresas de frio ocalor. Ayudan areducir
+el dolory lahinchazén.
+Uame [redacted-address-6] 911 de inmediato sitiene cualquiera de fossiguientes sintomas:
++Entumecimiente ocaida de los muscutos de [redacted-address-6] cara
+« Entumecimiento 000000MRN debilidad, especialmente 123 dummy street, dummy city tos brazos 123 dummy street, dummy city deun solo lado
++ Dificultad para hablar 123 dummy street, dummy city hablar arrastrando las palabras
++Vision borrosa
+[redacted-address-6] grevecdar de 8h
+Lame de inmeciato
+123 dummy street, dummy city 123 dummy street, dummy city proveedor
+de atencién médica si presenta cualquiera de estos sintamas:
++Fiebre de 100.4 °F (38 123 DUMMY STREET, DUMMY CITY 0superior,
+123 dummy street, dummy city segun [redacted-address-6] indique 123 dummy street, dummy city proveedor
++Escatoftios
++Empeoramiento
+def doloro de larigidez
++Sintomas que no [redacted-address-5] alivian 123 dummy street, dummy city que empeoran
++Entumecimiento, hormigueo, clebilidad 000000MRN dolores fulgurantes que bajan alos brazas 0taspiernas
++ Sintomas
+nuev:
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+01-01-1900 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 64
+
+============================================================
+PAGE 30
+============================================================
+
+85/24/24
+§8:88:33
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+445
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+wr
+=
+sett
+[redacted-address-7]
+‘ag
+henge
+Documents (continued)
+WRITTEN DISCHARGE INFORMATION
+Yohelp you manage your health
+after you leave ourcare, we will
+review important
+information with you at discharge:
+ii}have had my [redacted-address-6] condition explained to [redacted-address-6] and was kept
+informed about my treatment
+ol understand what symptoms and health problems to look out for
+when Igo home
+123 dummy street, dummy city Eunderstand the following information about my new and
+continued medications:
+- Purpose for taking each medication
+- Patential Side effects tobe aware of
+ol understand the items }am responsible for after discharge such [redacted-address-5]
+- Follow-up appointments
+- Outpatient follow-up tests
+- ifthe physician |am referred to does not accept my
+insurance twill call 1-800-Scripps (1-800-727-4777)
+if} have 123 dummy street, dummy city HMO insurance {will have tocall my
+primary care physician to get 123 dummy street, dummy city referral.
+- To request acopy of my health records |will contact
+000000MRN 633-7746
+- }know where to pick up my prescriptions or |have
+received acopy of mypaper prescription
+123 dummy street, dummy city The staff talked with [redacted-address-6] about
+whether | have the help | need.
+We value your feedback! You may receive
+123 dummy street, dummy city survey and 123 dummy street, dummy city would mean
+123 dummy street, dummy city lot
+to our staff if you would take the time to complete 123 dummy street, dummy city
+Thank you for the honor and privilege of caring for you!
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+ €2023 Epic Systems Corporation
+Page
+01-01-1900 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 000000MRN
+
+============================================================
+PAGE 123 dummy street, dummy city
+============================================================
+
+85/24/24
+@8:88:53
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+446
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+Lelia [REDACTED-MRN-1] Martinez 000000MRN
+personalized instructions can be found atthe end ofthis document.
+[redacted-address-7]
+acetaminophen (TYLENOL
+ibuprofen (MOTRIN)
+lidocaine (UDODER™M)
+Review your updated medication list below.
+NG (ENGLISH)
+CERVICAL STRAIN, UNDERSTAN:
++acetaminophen
+:Estimate unavailable
++ibuprofen
+;
+;
+‘stimate unavailable
+000000MRN
+icine
+[REDACTED-MRN-1] 123 DUMMY STREET, DUMMY CITY 8TH ST
+lational City
+123 DUMMY STREET, DUMMY CITY 91950
+619-662-4100
+You were see:
+icConstance Norton, MD
+Motor Vehicte Crash
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+01-01-1900 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 66
+
+============================================================
+PAGE 000000MRN
+============================================================
+
+45/28/24
+@8:409:14
+Scripps Health
+Documents (continued)
+$
+» Cervical strain, acute, initial encounter
++Thoracic myofascial strain, initial encounter
+Motor vehicle accident (victim),
+initial encounter
+CT cervical spine without contrast
+CTthoracic spine without contrast
+Ultrasound eFAST
+X-ray chest
+000000MRN views with pa/ap ancl lateral
+acetaminophen (TYLENCL) [redacted-address-7]
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+->
+VFD214M6N214 Scripps Health
+Martinez, Lelia [REDACTED-MRN-1]
+Adm: 3/1/2024, D/C: 3/1/2024
+The information in this after visit summary is up to date [redacted-address-5] of: 3/1/2024 10:48 AM.
+¢Reaction(s): Dry cough
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by {260498}
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+€2023 Epic Systems Corporation
+Page
+[redacted-address-5] of 17
+Page
+44?
+01-01-1900/1948, Sex:
+F
+Page 67
+
+============================================================
+PAGE 33
+============================================================
+
+45/24/24
+@8:89:31
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+448
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+wr
+=
+Documents (continued)
+[REDACTED-MRN-1] mg tablet
+Take 2tablets [REDACTED-MRN-1] mg total) by mouth every 6(sin)
+cb
+hours asneeded for mild pain {level 1-2).
+[REDACTED-MRN-1] mg tablet
+Take #tablet [REDACTED-MRN-1] mg total) by mouth every 6(six)
+cette
+000000MRN23 dummy street, dummy city
+hours [redacted-address-5] needed (pain of fever)
+[redacted-address-7]000MRN %
+patch
+Place 000000MRN patch onthe skin daily. Remove and discard
+patch within [redacted-address-5]
+hours or asdirected byMD.
+Send messages to your doctor, view your fest results, renew your prescriptions, schedule appointments,
+and more.
+varie,
+click “Sign Up Now", and [redacted-address-6] your personat activation code: &
+We value your feeclback! You may receive 123 dummy street, dummy city survey and 123 dummy street, dummy city would mean
+123 dummy street, dummy city lot to our staff if you would take the time to
+complete it.if you would
+like to speak with someone immediately, please ask for the charge nurse.
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+€2023 Epic Systems Corporation
+Page
+[redacted-address-5] of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 68
+
+============================================================
+PAGE 34
+============================================================
+
+85/24/24
+@8:89:53
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page 449
+oy
+[redacted-address-6]
+SCRIPPS HEALTH
+[redacted-address-7]23 dummy street, dummy city
+PO Box 235498
+01-01-1900/1948, Sex: F
+We"
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498
+Adm: 3/1/2024, D/C: 3/1/2024
+123 DUMMY STREET, DUMMY CITY
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+ €2023 Epic Systems Corporation
+Page
+14 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 69
+
+============================================================
+PAGE [redacted-address-7]
+
+85/240/24
+§8:18:86
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+454
+~-
+%.
+Dae
+SCRIPPS HEALTH
+Martinez, Lelia [redacted-address-7]d-address-6]
+NS
+Cy x
+PO Box 235498
+01-01-1900/1948, Sex: F
+Yen’
+SSS
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+MOVPQCNOS
+THANK YOU for allowing us to treat you in the Scripps Mercy 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City Emergency Department today. Please read these
+discharge instructions completely.
+If you have any questions, ptease ask your dectoror nurse.
+123 Dummy Street, Dummy City is very important for you
+to understand these instructions and follow the plan that has been outlined to et you on the road to health [redacted-address-5] soon [redacted-address-5]
+possible. Tokelp you further understand your condition, we have provided information about your diagnosis along with
+the treatment plan in the attached sheets.
+Please read and ask ifyou have any questions.
+Please note:
+- Wedid not feel you need to be admitted to the hospital today.
+- Your condition may change, and if you are concerned you are getting worse, we are happy tosee you again at any time.
+- Please fill any prescriptions promptly, and take medications [redacted-address-5] directed.
+-Make sure to follow up [redacted-address-5] instructed for post-emergency department reassessment. with your doctor, or with another
+MD cr specialist asdirected, withie the indicated time. If you cannot, you can ge toacommunity clinic.
+----Hilicrest Family Health [redacted-address-6] 4094 4th 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City 123 DUMMY STREET, DUMMY CITY 123 dummy street, dummy city
+619-515-2545,
+Ifyou cannot arrange follow up. then returs to the emergency department for re-evaluation. Failure to follow-up [redacted-address-5]
+directed could lead todisability, worsening
+itiness, or even death.
+- Please return to the Emergency Dept. right away, ifyou have worsening symptoms, increasing pain, fever >
+107F,
+vomiting, or any other concerning symptoms after discharge.
+=
+Hfycu are asmoker, we recommend you quit smoking,
+Please talk to your dector fer help, or call 1-800-NO-SUTTS for
+smaking cessation resources.
+-
+your blood pressure was higher than 126/80 during your time in the [REDACTED-ADDRESS-6]
+you may have high blaod pressure.
+Please get
+your blood pressure
+rechecked within 1week ataclinic or with your primary care physician.
+You can
+download the myScripps app on your phone and create 123 dummy street, dummy city account fo seeany
+test results and show them to your
+doctor [redacted-address-5] needed.
+Thank You!
+Emergency Department
+Scripps Mercy Hospital 123 Dummy Street, Dummy City 123 Dummy Street, Dummy City
+{619} 686-3800
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+ €2023 Epic Systems Corporation
+Page
+15 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 000000MRN
+
+============================================================
+PAGE 36
+============================================================
+
+85/24/24
+§8:18:29
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+451
+wr
+=
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+Documents (continued)
+There are seven
+bones (vertebrae) inthe neck that are part of the spine.
+These are called the cervical spine. Cervical strain
+is 123 dummy street, dummy city [redacted-address-6] term for neck pain. The neck has several layers of muscles. These are connected with tendons tothe cervical
+spine and other bones. Neck pain isoften the result of injury to these muscles and tendons.
+Different types of stress on the neck can damage muscles and tendons (soft tissues) and cause cervical strain. Cervical
+tissues can be damaged by:
++The neck being forced past its normal range of motion, such [redacted-address-5] in acar accident or sports injury
++ Constant, low-level stress, such
+[redacted-address-5] from poor posture or 123 dummy street, dummy city poorly set upworkspace
+These may include:
++ Neck pain or stiffness
+Pain in the shouiders or upper back
+Muscle spasms
+Headache, often starting at the base of the neck
++trritability,
+troubée concentrating, or sleeplessness
+Numbness in the arr or band
+Tingling or weakness
+inthe arm
+This problem often gets better on itsown. Treatments aim tc reduce pain and inflammation and increase the range of
+motion of the neck. Possible treatments include:
++Changes to your posture or sieep positions.
+This can help ease muscle tension.
+Lelia
+[REDACTED-MRN-1]
+01-01-1900948) +Printed by [260498]
+©2023 Epic Systems Corporation
+Page
+16 of 17
+at 3/1/2024 10:48 AM
+Generated by 127511 at 5/17/24 10:54 AM
+Page 71
+
+============================================================
+PAGE 37
+============================================================
+
+85/240/24
+§8:18:54
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+452
+[redacted-address-7]]
+PO Box 235498
+01-01-1900/1948, Sex: F
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+wr
+=
+sett
+[redacted-address-7]
+‘ag
+henge
+Documents (continued)
+* Over-the-counter cr prescription medicine, These help relieve pain and inflammation.
++Muscle relaxant can help with muscle spasms.
++Stretching exercises to decrease neck stiffness.
++Massage to decrease neck stiffness
+* Cold or heat pack. These help reduce pain and swelling.
+Cali 917 right away ifyou have any of these:
++ Face drooping or numbness
+* Numbness or weakness, especially in the arms or on one side
++Slurred speech ordifficulty speaking
++ Blurred vision
+Call your healthcare provider right away if you have anyof these:
++Fever of 100.4°F (38°C) or higher, or [redacted-address-5] directed by your provider
++Chills
+* Pain or stiffness that gets worse
+* Symptoms that don't get better, or get worse
++ Numbness, tingling, weakness or shooting pains inte the arms or legs
++New
+symptoms
+Lelia [REDACTED-MRN-1] Martinez [REDACTED-MRN-1] 000000MRN
+at 3/1/2024 10:43 AM
+01-01-1900 «Printed
+by {260498}
+©2023 Epic Systems Corgoration
+Page 17of 17
+*
+Not seen
+Generated by 127511 at 5/17/24 10:54 AM
+Page 72
+
+============================================================
+PAGE 38
+============================================================
+
+85/240/24
+@8:11:14
+Scripps Health
+>
+VFD214M6N214 Scripps Health
+Page
+453
+oy
+oy
+123 dummy street, dummy city
+SCRIPPS HEALTH
+Martinez, [redacted-address-7]ummy street, dummy city
+Sey
+PO Box 235498
+01-01-1900/1948, Sex: F
+we
+SSA
+Encinitas 123 DUMMY STREET, DUMMY CITY 92023-5498 =Adm: 3/1/2024, D/C: 3/1/2024
+END OF DOCUMENT
+Generated by 127511 at 5/17/24 10:54 AM
+Page 73
